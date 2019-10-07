@@ -8,10 +8,10 @@ We invite **developers or users of tools and technologies** used in a research c
 We understand research as the general process to produce knowledge such as **scientific research, investigative journalism, NGOs fieldwork**, etc.
 
 We seek talks about:
-- New software releases of research tools or technologies.
-- Feedback on open technology stacks used in research contexts (e.g., scientific research, journalistic inquiry, archive creation or publication) which collect, analyse, document, visualize, and/or share data.
-- Tool design and implementation for specific research contexts, e.g. how to hold an algorithm accountable to social scientists, how to foster better replicability and interoperability thanks to FLOSS, how to cope with biases of a chart for a data journalist, etc.
-- Issues and opportunities about bridging tech culture with research environments (research labs, libraries, newsrooms, museums).
+- **New software releases** of research tools or technologies.
+- **Feedback** on open technology stacks used in research contexts (e.g., scientific research, journalistic inquiry, archive creation or publication) which collect, analyse, document, visualize, and/or share data.
+- **Tool design and implementation** for specific research contexts, e.g. how to hold an algorithm accountable to social scientists, how to foster better replicability and interoperability thanks to FLOSS, how to cope with biases of a chart for a data journalist, etc.
+- Issues and opportunities about **bridging tech culture with research environments** (research labs, libraries, newsrooms, museums).
 
 Talks will last around *20-40 minutes + 5-10 minutes Q&A*, have to be *in English*, will be video recorded by the amazing FOSDEM staff and will be available on the [FOSDEM video recordings archive](https://video.fosdem.org/).
 
@@ -21,8 +21,8 @@ Talks will last around *20-40 minutes + 5-10 minutes Q&A*, have to be *in Englis
 
 Submissions must include:
 - Abstract
-- Session type
-- Session length
+- Session type *(preferably developer room, or lightning talk)*
+- Session length *(20-40 min, 10 min for a lightning talk)*
 - Expected prior knowledge / intended audience
 - Speaker bio
 - Links to code / slides / material for the talk (optional)
@@ -41,7 +41,7 @@ If you have any issues with Pentabarf, do not despair: contact us at `research-d
 
 # The Open Research Technologies devroom
 
-The Open Research Technologies devroom addresses FLOSS developers in a broad community concerned with knowledge production and curation: scientists, engineers, journalists, archivists, curators, activists.
+The Open Research Technologies devroom addresses [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html) developers in a broad community concerned with knowledge production and curation: scientists, engineers, journalists, archivists, curators, activists.
 The tools and technologies targeted are typically creating, handling or sharing knowledge artifacts: data, academic papers, books, collections, web contents, algorithms, artworks.
 This devroom provides a place and time to discuss the issues related to the creation and usage of open research technologies, with the ambition to foster discussions between designers, developers and users, bridging multiple knowledge-based communities together, and with the broader FLOSS community.
 
@@ -51,16 +51,29 @@ The Open Research Technologies devroom aims to:
 - Create a network where otherwise isolated developers, research engineers can share common FLOSS concerns.
 - Provide social recognition for people who work in fields where designing and developing tools is less considered than usual outcomes (e.g. not publishing papers in research, not writing investigation in data journalism, etc).
 
-# Have a look at other devrooms
-- HPC, Big Data, and Data Science
-- Graph processing
-- Open source design
+# What is FOSDEM?
+
+The FOSDEM (Free and Open source Software Developers' European Meeting) is a non-commercial, volunteer-organized European event centered on free and open-source software development. It is aimed at developers and anyone interested in the free and open-source software movement. It aims to enable developers to meet and to promote the awareness and use of free and open-source software.
+https://fosdem.org/
+https://en.wikipedia.org/wiki/FOSDEM
+
+# Other devrooms might interest you
+
+A research engineer can attend many interesting talks, even if the FOSDEM is not science-specific. Some developer rooms have a scope that resonates with research, for instance:
+- [HPC, Big Data, and Data Science](https://fosdem.org/2020/schedule/track/hpc_big_data_and_data_science/)
+- [Graph systems and algorithms](https://fosdem.org/2020/schedule/track/graph_systems_and_algorithms/)
+- [Open source design](https://fosdem.org/2020/schedule/track/open_source_design/)
+
+Of course you will also be able to find high quality talks in your own area of expertise in the [50+ devrooms](https://fosdem.org/2020/schedule/) (Python, Java, PostgreSQL...).
+
+Finally, you may appreciate the prestigious keynotes in the main amphitheater *(to be announced)*.
 
 # Organizers
-- Paul Girard, Sciences Po médialab https://medialab.sciencespo.fr/equipe/paul-girard
-- Mathieu Jacomy, Aalborg University TANT Lab https://www.tantlab.aau.dk/
-- Achilleas Koutsou, G-Node, https://github.com/achilleas-k
-- Michael Sonntag, G-Node, https://github.com/mpsonntag
+
+- Paul Girard, [Sciences Po médialab](https://medialab.sciencespo.fr), https://medialab.sciencespo.fr/equipe/paul-girard
+- Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), https://github.com/jacomyma
+- Achilleas Koutsou, [G-Node](http://www.g-node.org), https://github.com/achilleas-k
+- Michael Sonntag, [G-Node](http://www.g-node.org), https://github.com/mpsonntag
 
 Paul and Mathieu were colleagues at Sciences Po médialab.
 Achilleas and Michael are colleagues at the German Neuroinformatics Node.
@@ -68,7 +81,8 @@ We met because we submited two very related "Open Science" proposals for FOSDEM 
 
 Contact us: `research-devroom[at]lists.fosdem.org`
 
-# What is FOSDEM?
-The FOSDEM (Free and Open source Software Developers' European Meeting) is a non-commercial, volunteer-organized European event centered on free and open-source software development. It is aimed at developers and anyone interested in the free and open-source software movement. It aims to enable developers to meet and to promote the awareness and use of free and open-source software.
-https://fosdem.org/
-https://en.wikipedia.org/wiki/FOSDEM
+![G-Node logo](img/g-node-logo.png)
+
+![médialab logo](img/medialab-logo.png)
+
+![TANTLab logo](img/tantlab-logo.png)
