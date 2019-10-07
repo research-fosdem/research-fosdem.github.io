@@ -81,3 +81,8 @@ We met because we submited two very related "Open Science" proposals for FOSDEM 
 
 Contact us: `research-devroom[at]lists.fosdem.org`
 
+![G-Node logo](img/g-node-logo.png)
+
+![médialab logo](img/medialab-logo.png)
+
+![TANTLab logo](img/tantlab-logo.png)
