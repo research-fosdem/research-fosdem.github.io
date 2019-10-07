@@ -9,7 +9,7 @@ We understand research as the general process to produce knowledge such as **sci
 
 We seek talks about:
 - **New software releases** of research tools or technologies.
-- **Feedback** on open technology stacks used in research contexts (e.g., scientific research, journalistic inquiry, archive creation or publication) which collect, analyse, document, visualize, and/or share data.
+- Feedback on **open technology stacks used** in research contexts (e.g., scientific research, journalistic inquiry, archive creation or publication) which collect, analyse, document, visualize, and/or share data.
 - **Tool design and implementation** for specific research contexts, e.g. how to hold an algorithm accountable to social scientists, how to foster better replicability and interoperability thanks to FLOSS, how to cope with biases of a chart for a data journalist, etc.
 - Issues and opportunities about **bridging tech culture with research environments** (research labs, libraries, newsrooms, museums).
 
@@ -25,7 +25,7 @@ Submissions must include:
 - Session length *(20-40 min, 10 min for a lightning talk)*
 - Expected prior knowledge / intended audience
 - Speaker bio
-- Links to code / slides / material for the talk (optional)
+- Links to code / slides / material for the talk *(optional)*
 - Links to previous talks by the speaker
 
 Submission process is managed in the Pentabarf system used by the FOSDEM conference.
@@ -59,18 +59,19 @@ https://en.wikipedia.org/wiki/FOSDEM
 
 # Other devrooms might interest you
 
-A research engineer can attend many interesting talks, even if the FOSDEM is not science-specific. Some developer rooms have a scope that resonates with research, for instance:
+Even if the FOSDEM is not science-specific, you might be interesting by many other talks. Some developer rooms have a scope that resonates with research, for instance:
 - [HPC, Big Data, and Data Science](https://fosdem.org/2020/schedule/track/hpc_big_data_and_data_science/)
 - [Graph systems and algorithms](https://fosdem.org/2020/schedule/track/graph_systems_and_algorithms/)
 - [Open source design](https://fosdem.org/2020/schedule/track/open_source_design/)
+- [Community](https://fosdem.org/2020/schedule/track/community_devroom/)
 
-Of course you will also be able to find high quality talks in your own area of expertise in the [50+ devrooms](https://fosdem.org/2020/schedule/) (Python, Java, PostgreSQL...).
+Of course you will also be able to find high quality talks in your own area of expertise in the [50+ devrooms](https://fosdem.org/2020/schedule/) (Python, Java, Rust, PostgreSQL...).
 
 Finally, you may appreciate the prestigious keynotes in the main amphitheater *(to be announced)*.
 
 # Organizers
 
-- Paul Girard, [Sciences Po médialab](https://medialab.sciencespo.fr), https://medialab.sciencespo.fr/equipe/paul-girard
+- Paul Girard, [Sciences Po médialab](https://medialab.sciencespo.fr), https://github.com/paulgirard
 - Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), https://github.com/jacomyma
 - Achilleas Koutsou, [G-Node](http://www.g-node.org), https://github.com/achilleas-k
 - Michael Sonntag, [G-Node](http://www.g-node.org), https://github.com/mpsonntag
