@@ -47,7 +47,7 @@ This devroom provides a place and time to discuss the issues related to the crea
 
 The Open Research Technologies devroom aims to:
 - Allow knowledge-based tool developers to publicize their effort and become aware of other FLOSS projects.
-- Facilitate the mutualization of coding efforts on (often poorly funded) tools.
+- Facilitate the pooling of coding efforts on (often poorly funded) tools.
 - Create a network where otherwise isolated developers, research engineers can share common FLOSS concerns.
 - Provide social recognition for people who work in fields where designing and developing tools is less considered than usual outcomes (e.g. not publishing papers in research, not writing investigation in data journalism, etc).
 
