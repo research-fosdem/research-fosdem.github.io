@@ -78,7 +78,7 @@ Finally, you may appreciate the prestigious keynotes in the main amphitheater *(
 
 Paul and Mathieu were colleagues at Sciences Po médialab.
 Achilleas and Michael are colleagues at the German Neuroinformatics Node.
-We met because we submited two very related "Open Science" proposals for FOSDEM 2020!
+We met because we submitted two very related "Open Science" proposals for FOSDEM 2020!
 
 Contact us: `research-devroom[at]lists.fosdem.org`
 
