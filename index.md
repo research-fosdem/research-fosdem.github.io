@@ -9,15 +9,15 @@ We understand research as the general process to produce knowledge such as **sci
 
 We seek talks about:
 - **New software releases** of research tools or technologies.
-- Feedback on **open technology stacks used** in research contexts (e.g., scientific research, journalistic inquiry, archive creation or publication) which collect, analyse, document, visualize, and/or share data.
+- Feedback on **open technology stacks used** in research contexts (e.g., scientific research, journalistic inquiry, archive creation or publication…) which collect, analyse, document, visualize, and/or share data.
 - **Tool design and implementation** for specific research contexts, e.g. how to hold an algorithm accountable to social scientists, how to foster better replicability and interoperability thanks to FLOSS, how to cope with biases of a chart for a data journalist, etc.
-- Issues and opportunities about **bridging tech culture with research environments** (research labs, libraries, newsrooms, museums).
+- Issues and opportunities about **bridging tech culture with research environments** (research labs, libraries, newsrooms, museums…).
 
 Talks will last around *20-40 minutes + 5-10 minutes Q&A*, have to be *in English*, will be video recorded by the amazing FOSDEM staff and will be available on the [FOSDEM video recordings archive](https://video.fosdem.org/).
 
 # HOW TO SUBMIT
 
-**Deadline: 2020/12/01 midnight**
+**Deadline: 2020/12/01 23:59 CET**
 
 Submissions must include:
 - Abstract
@@ -54,27 +54,27 @@ The Open Research Technologies devroom aims to:
 # What is FOSDEM?
 
 The FOSDEM (Free and Open source Software Developers' European Meeting) is a non-commercial, volunteer-organized European event centered on free and open-source software development. It is aimed at developers and anyone interested in the free and open-source software movement. It aims to enable developers to meet and to promote the awareness and use of free and open-source software.
-https://fosdem.org/
-https://en.wikipedia.org/wiki/FOSDEM
+[https://fosdem.org/](https://fosdem.org/)
+[https://en.wikipedia.org/wiki/FOSDEM](https://en.wikipedia.org/wiki/FOSDEM)
 
 # Other devrooms might interest you
 
-Even if the FOSDEM is not science-specific, you might be interesting by many other talks. Some developer rooms have a scope that resonates with research, for instance:
+Even if the FOSDEM is not science-specific, you might be interested by many other talks. Some developer rooms have a scope that resonates with research, for instance:
 - [HPC, Big Data, and Data Science](https://fosdem.org/2020/schedule/track/hpc_big_data_and_data_science/)
 - [Graph systems and algorithms](https://fosdem.org/2020/schedule/track/graph_systems_and_algorithms/)
 - [Open source design](https://fosdem.org/2020/schedule/track/open_source_design/)
 - [Community](https://fosdem.org/2020/schedule/track/community_devroom/)
 
-Of course you will also be able to find high quality talks in your own area of expertise in the [50+ devrooms](https://fosdem.org/2020/schedule/) (Python, Java, Rust, PostgreSQL...).
+Of course you will also be able to find high quality talks in your own area of expertise in the [50+ devrooms](https://fosdem.org/2020/schedule/) (Python, Java, Rust, PostgreSQL…).
 
 Finally, you may appreciate the prestigious keynotes in the main amphitheater *(to be announced)*.
 
 # Organizers
 
-- Paul Girard, [Sciences Po médialab](https://medialab.sciencespo.fr), https://github.com/paulgirard
-- Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), https://github.com/jacomyma
-- Achilleas Koutsou, [G-Node](http://www.g-node.org), https://github.com/achilleas-k
-- Michael Sonntag, [G-Node](http://www.g-node.org), https://github.com/mpsonntag
+- Paul Girard, [Sciences Po médialab](https://medialab.sciencespo.fr), [@paulgirard](https://github.com/paulgirard)
+- Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), [@jacomyma](https://github.com/jacomyma)
+- Achilleas Koutsou, [G-Node](http://www.g-node.org), [@achilleas-k](https://github.com/achilleas-k)
+- Michael Sonntag, [G-Node](http://www.g-node.org), [@mpsonntag](https://github.com/mpsonntag)
 
 Paul and Mathieu were colleagues at Sciences Po médialab.
 Achilleas and Michael are colleagues at the German Neuroinformatics Node.
