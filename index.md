@@ -41,7 +41,7 @@ If you have any issues with Pentabarf, do not despair: contact us at `research-d
 
 # The Open Research Technologies devroom
 
-The Open Research Technologies devroom addresses [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html) developers in a broad community concerned with knowledge production and curation: scientists, engineers, journalists, archivists, curators, activists.
+The Open Research Technologies devroom addresses [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html) developers in a broad community concerned with research production and curation: scientists, engineers, journalists, archivists, curators, activists.
 The tools and technologies targeted are typically creating, handling or sharing knowledge artifacts: data, academic papers, books, collections, web contents, algorithms, artworks.
 This devroom provides a place and time to discuss the issues related to the creation and usage of open research technologies, with the ambition to foster discussions between designers, developers and users, bridging multiple knowledge-based communities together, and with the broader FLOSS community.
 
