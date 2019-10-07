@@ -70,10 +70,10 @@ Finally, you may appreciate the prestigious keynotes in the main amphitheater *(
 
 # Organizers
 
-- Paul Girard, Sciences Po médialab https://medialab.sciencespo.fr/equipe/paul-girard
-- Mathieu Jacomy, Aalborg University TANT Lab https://www.tantlab.aau.dk/
-- Achilleas Koutsou, G-Node, https://github.com/achilleas-k
-- Michael Sonntag, G-Node, https://github.com/mpsonntag
+- Paul Girard, [Sciences Po médialab](https://medialab.sciencespo.fr), https://medialab.sciencespo.fr/equipe/paul-girard
+- Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), https://github.com/jacomyma
+- Achilleas Koutsou, [G-Node](http://www.g-node.org), https://github.com/achilleas-k
+- Michael Sonntag, [G-Node](http://www.g-node.org), https://github.com/mpsonntag
 
 Paul and Mathieu were colleagues at Sciences Po médialab.
 Achilleas and Michael are colleagues at the German Neuroinformatics Node.
