@@ -17,7 +17,7 @@ Talks will last around *20-40 minutes + 5-10 minutes Q&A*, have to be *in Englis
 
 # HOW TO SUBMIT
 
-**Deadline: 2020/12/01 23:59 CET**
+**Deadline: 2019/12/01 23:59 CET**
 
 Submissions must include:
 - Abstract
