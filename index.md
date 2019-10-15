@@ -21,7 +21,7 @@ Talks will last around *20-40 minutes + 5-10 minutes Q&A*, have to be *in Englis
 
 Submissions must include:
 - Abstract
-- Session type *(preferably developer room, or lightning talk)*
+- Session type *(Lecture or Lightning Talk)*
 - Session length *(20-40 min, 10 min for a lightning talk)*
 - Expected prior knowledge / intended audience
 - Speaker bio
