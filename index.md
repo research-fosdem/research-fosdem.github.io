@@ -37,7 +37,7 @@ Apply for a talk: [https://penta.fosdem.org/submission/FOSDEM20](https://penta.f
 When submitting your talk in Pentabarf, make sure to select the ‘Open Research Technologies Devroom’ as the ‘Track’.
 If you already have a Pentabarf account from a previous FOSDEM event, please reuse it. Create an account if, and only if, you don’t have one from a previous year.
 
-If you have any issues with Pentabarf, do not despair: contact us at `research-devroom[at]lists.fosdem.org`
+If you have any issues with Pentabarf, do not despair: contact us at `science-devroom-manager [at] fosdem.org`
 
 # The Open Research Technologies devroom
 
@@ -80,7 +80,7 @@ Paul and Mathieu were colleagues at Sciences Po médialab.
 Achilleas and Michael are colleagues at the German Neuroinformatics Node.
 We met because we submitted two very related "Open Science" proposals for FOSDEM 2020!
 
-Contact us: `research-devroom[at]lists.fosdem.org`
+Contact us: `science-devroom-manager [at] fosdem.org`
 
 ![G-Node logo](img/g-node-logo.png)
 
