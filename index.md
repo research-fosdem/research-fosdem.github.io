@@ -2,7 +2,7 @@
 layout: default
 ---
 # Join us at FOSDEM 2020
-## Saturday 1st of February 2020<br> from 10:30 to 19:00<br>ULB, Brussels, Belgium
+## Saturday 1st of February 2020<br> from 10:30 to 19:00<br>AW1.126, ULB, Brussels, Belgium
 
 We invite **developers or users of tools and technologies** used in a research context to contribute to the [FOSDEM 2020](https://fosdem.org) conference.
 We understand research as the general process to produce knowledge such as **scientific research, investigative journalism, NGOs fieldwork**, etc.
