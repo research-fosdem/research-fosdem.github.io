@@ -12,8 +12,8 @@ We understand research as the general process to produce knowledge such as **sci
 The schedule for the devroom can be found on the [Open Research Tools and Technologies devroom](https://fosdem.org/2020/schedule/track/open_research_tools_and_technologies/) page of the official FOSDEM website.
 
 The talks are implicitly divided into four thematic sections:
-- **10:30 - 13:30**: Life sciences and open data
-- **13:30 - 14:30**: Lightning talks
+- **10:30 - 13:30**: Life Sciences and Open Data
+- **13:30 - 14:30**: Lightning Talks
 - **14:30 - 17:00**: Digital Humanities
 - **17:00 - 18:30**: Publishing and Dissemination
 
