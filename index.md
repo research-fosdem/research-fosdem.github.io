@@ -7,7 +7,17 @@ layout: default
 We invite **developers or users of tools and technologies** used in a research context to attend our devroom at the [FOSDEM 2020](https://fosdem.org) conference.
 We understand research as the general process to produce knowledge such as **scientific research, investigative journalism, NGOs fieldwork**, etc.
 
+# Schedule
 
+The schedule for the devroom can be found on the [Open Research Tools and Technologies devroom](https://fosdem.org/2020/schedule/track/open_research_tools_and_technologies/) page of the official FOSDEM website.
+
+The talks are implicitly divided into four thematic sections:
+- **10:30 - 13:30**: Life sciences and open data
+- **13:30 - 14:30**: Lightning talks
+- **14:30 - 17:00**: Digital Humanities
+- **17:00 - 18:30**: Publishing and Dissemination
+
+Talks will last *20 minutes + 10 minutes Q&A*, *10 minutes + 5 minutes Q&A* for Lightning Talks, and will all be *in English*. All talks are live streamed and video recorded by the amazing FOSDEM staff and will be available on the [FOSDEM video recordings archive](https://video.fosdem.org/) after the conference has ended.
 
 
 **Submissions are now closed**
