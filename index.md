@@ -7,37 +7,10 @@ layout: default
 We invite **developers or users of tools and technologies** used in a research context to attend our devroom at the [FOSDEM 2020](https://fosdem.org) conference.
 We understand research as the general process to produce knowledge such as **scientific research, investigative journalism, NGOs fieldwork**, etc.
 
-We seek talks about:
-- **New software releases** of research tools or technologies.
-- Feedback on **open technology stacks used** in research contexts (e.g., scientific research, journalistic inquiry, archive creation or publication, etc.) which collect, analyse, document, visualize, and/or share data.
-- **Tool design and implementation** for specific research contexts, e.g. how to hold an algorithm accountable to social scientists, how to foster better replicability and interoperability thanks to FLOSS, how to cope with biases of a chart for a data journalist, etc.
-- Issues and opportunities about **bridging tech culture with research environments** (research labs, libraries, newsrooms, museums, etc.).
 
-Talks will last around *20-40 minutes + 5-10 minutes Q&A*, have to be *in English*, will be video recorded by the amazing FOSDEM staff and will be available on the [FOSDEM video recordings archive](https://video.fosdem.org/).
 
-# HOW TO SUBMIT
 
-**Deadline: 1 Dec 2019 23:59 CET**
-
-Submissions must include:
-- Abstract
-- Session type *(Lecture or Lightning Talk)*
-- Session length *(20-40 min, 10 min for a lightning talk)*
-- Expected prior knowledge / intended audience
-- Speaker bio
-- Links to code / slides / material for the talk *(optional)*
-- Links to previous talks by the speaker
-
-Submission process is managed in the Pentabarf system used by the FOSDEM conference.
-
-Apply for a talk: [https://penta.fosdem.org/submission/FOSDEM20](https://penta.fosdem.org/submission/FOSDEM20)
-
-**By submitting a proposal you agree to being recorded and to have your talk made available.**
-
-When submitting your talk in Pentabarf, make sure to select the ‘Open Research Technologies Devroom’ as the ‘Track’.
-If you already have a Pentabarf account from a previous FOSDEM event, please reuse it. Create an account if, and only if, you don’t have one from a previous year.
-
-If you have any issues with Pentabarf, do not despair: contact us at `science-devroom-manager [at] fosdem.org`
+**Submissions are now closed**
 
 # The Open Research Technologies devroom
 
