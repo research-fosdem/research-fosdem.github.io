@@ -70,3 +70,5 @@ Contact us: `science-devroom-manager [at] fosdem.org`
 ![médialab logo](img/medialab-logo.png)
 
 ![TANTLab logo](img/tantlab-logo.png)
+
+![NFDI logo](img/nfdi-logo.png)
