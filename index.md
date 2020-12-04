@@ -104,7 +104,7 @@ Contact us: `research-devroom-manager [at] fosdem.org`
 
 ![CEVIPOF logo](img/cevipof-logo.png)
 
-![OKFN logo](img/OKFN-logo.svg)
+![OKFN logo](img/OKFN-logo.png)
 
 ![Inno3 logo](img/Inno3-logo.png)
 
