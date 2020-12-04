@@ -2,14 +2,50 @@
 layout: default
 ---
 # Join us at FOSDEM 2021
-## Saturday 6th of February 2021<br>This event will take place online
+## Saturday 6th of February 2021<br> precise time to be confirmed<br>online
 
-We invite **developers or users of tools and technologies** used in a research context to attend [our devroom at the FOSDEM 2021](https://fosdem.org/2021/schedule/track/open_research_tools_and_technologies/) conference.
-We understand research as the general process to produce knowledge such as **scientific research, investigative journalism, NGOs fieldwork**, etc.
+We invite **developers or users of open tools and technologies** used in a research context to contribute to the [FOSDEM 2021](https://fosdem.org/2021/schedule/track/open_research_tools_and_technologies/) conference.
+We understand research as the general process of inquiry and knowledge production such as **scientific research, investigative journalism, NGOs fieldwork**, etc.
 
-**Submissions will soon be opened**
+We seek talks about:
+- **New releases of open source software** of research tools or technologies.
+- Feedback on **open technology stacks used** in research contexts (e.g., scientific research, journalistic inquiry, archive creation or publication, etc.) which collect, analyse, document, visualize, and/or share data.
+- **Tool design and implementation** for specific research contexts, e.g. how to hold an algorithm accountable to social scientists, how to foster better reproducibility, replicability, repeatability, and interoperability thanks to FLOSS, how to cope with biases of a chart for a data journalist, etc.
+- Issues and opportunities about **bridging tech culture with research environments** (research labs, libraries, newsrooms, museums, hackerspaces, makers labs etc.) including community building, organizational, legal and financial aspects.
 
-Talks generally lasts 20 minutes and will this year have to be pre-recorded. Live Q/A sessions will be organized. More details will be released soon.
+*Any subjects related to open source technologies in research contexts are welcome even if not in this list.*
+
+Talks will last around *20-40 minutes + 5-10 minutes Q&A*, have to be *in English*.  
+The video of the talk has to be pre-recorded in January 2021. The Q/A session will be live.  
+The video will be published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/).
+
+# HOW TO SUBMIT
+
+Important dates:
+- **Proposal Deadline: 21st Dec 2020 23:59 CET**
+- **Accepted Talk video upload Deadline: 15th Jan 2021 23:59 CET**
+- **Online conference with live Q&A: 6th Feb 2021**
+- Submit early if you can, as we will evaluate the proposals as they come because of this year's special circumstances (very tight schedule)
+
+Submissions must include:
+- Abstract
+- Session type *(Lecture or Lightning Talk)*
+- Expected prior knowledge / intended audience
+- Speaker bio
+- Links to code / slides / material for the talk *(optional)*
+- Links to previous talks by the speaker *(optional)*
+
+Submission process is managed in the Pentabarf system used by the FOSDEM conference.
+
+Apply for a talk: [https://penta.fosdem.org/submission/FOSDEM21](https://penta.fosdem.org/submission/FOSDEM21)
+
+
+**By submitting your recorded talk you agree to have it made available publicly... forever.** 
+
+When submitting your talk in Pentabarf, make sure to select the ‘Open Research Tools and Technologies Devroom’ as the ‘Track’.
+If you already have a Pentabarf account from a previous FOSDEM event, please reuse it. Create an account if, and only if, you don’t have one from a previous year.
+
+If you have any issues with Pentabarf, do not despair: contact us at `research-devroom[at]lists.fosdem.org`
 
 # The Open Research Technologies devroom
 
@@ -46,14 +82,15 @@ Finally, you may appreciate the prestigious keynotes in the main amphitheater *(
 - Paul Girard, [OuestWare](https://ouestware.com), [@paulgirard](https://github.com/paulgirard)
 - Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), [@jacomyma](https://github.com/jacomyma)
 - Achilleas Koutsou, [G-Node](http://www.g-node.org), [@achilleas-k](https://github.com/achilleas-k)
-- Michael Sonntag, [G-Node](http://www.g-node.org), [@mpsonntag](https://github.com/mpsonntag)
 - Diego Antolinos Basso, [Sciences Po CEVIPOF](https://www.sciencespo.fr/cevipof/en.html), [@diegantobass](https://github.com/diegantobass/)
 - Lilly Winfree, [OKFN](https://okfn.org/), [@lwinfree](https://github.com/lwinfree)
+- Célya Gruson-Daniel, [inno3](https://inno3.fr/), [@celyagd](https://github.com/Celyagd)
 
 Paul, Mathieu and Diego were colleagues at Sciences Po médialab.
 Achilleas and Michael are colleagues at the German Neuroinformatics Node.
 We met because we submitted two very related "Open Science" proposals for FOSDEM 2020!
 Lilly gave a great talk in the 2020 edition.
+Célya conducted a study on communities around our 2020 devroom and the CHAOSScon conf.
 
 Contact us: `research-devroom-manager [at] fosdem.org`
 
@@ -65,6 +102,9 @@ Contact us: `research-devroom-manager [at] fosdem.org`
 
 ![NFDI logo](img/nfdi-logo.png)
 
+![CEVIPOF logo](img/cevipof-logo.png)
+
+![OKFN logo](img/okfn-logo.png)
 
 # About the 2020 edition
 
