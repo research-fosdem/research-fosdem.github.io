@@ -104,8 +104,11 @@ Contact us: `research-devroom-manager [at] fosdem.org`
 
 ![CEVIPOF logo](img/cevipof-logo.png)
 
-![OKFN logo](img/okfn-logo.png)
+![OKFN logo](img/okfn-logo.svg)
 
+![Inno3 logo](img/Inno3-logo.png)
+
+![Red Hat logo](img/redhat-logo.svg)
 # About the 2020 edition
 
 The schedule for the devroom for the [2020 Open Research Tools and Technologies devroom](https://fosdem.org/2020/schedule/track/open_research_tools_and_technologies/) page of the official FOSDEM website.
