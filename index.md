@@ -84,7 +84,7 @@ Finally, you may appreciate the prestigious keynotes in the main amphitheater *(
 - Achilleas Koutsou, [G-Node](http://www.g-node.org), [@achilleas-k](https://github.com/achilleas-k)
 - Diego Antolinos Basso, [Sciences Po CEVIPOF](https://www.sciencespo.fr/cevipof/en.html), [@diegantobass](https://github.com/diegantobass/)
 - Lilly Winfree, [OKFN](https://okfn.org/), [@lwinfree](https://github.com/lwinfree)
-- Célya Gruson-Daniel, [inno3](https://inno3.fr/) (HackYourReseach)[https://twitter.com/HackResearch], [@celyagd](https://github.com/Celyagd)
+- Célya Gruson-Daniel, [inno3](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
 
 Paul, Mathieu and Diego were colleagues at Sciences Po médialab.
 Achilleas and Michael are colleagues at the German Neuroinformatics Node.
