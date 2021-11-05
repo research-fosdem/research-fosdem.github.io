@@ -61,7 +61,7 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 - Paul Girard, [OuestWare](https://ouestware.com), [@paulgirard](https://github.com/paulgirard)
 - Célya Gruson-Daniel, [inno3](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
 - Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), [@jacomyma](https://github.com/jacomyma)
-- Sara Petti
+- Sara Petti, [Open Knowledge Foundation](https://okfn.org/), [@sapetti9](https://github.com/sapetti9)
 - Matthieu Tottet
 
 Contact us: `research-devroom-manager [at] fosdem.org`
