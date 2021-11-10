@@ -48,7 +48,7 @@ The Open Research Technologies devroom aims to:
 
 For more content information, you can also read about the [state of the conversation](https://reticular.hypotheses.org/1825) in the devroom in 2020-2021.
 
-# What is FOSDEM?
+# What is the FOSDEM?
 
 The FOSDEM (Free and Open source Software Developers' European Meeting) is a non-commercial, volunteer-organized European event centered on free and open-source software development. It is aimed at developers and anyone interested in the free and open-source software movement. It aims to enable developers to meet and to promote the awareness and use of free and open-source software.  
 [https://fosdem.org/](https://fosdem.org/)  
@@ -56,10 +56,11 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 
 # Organizers
 
-- Maya Anderson-González
+- Maya Anderson-González, [Inno³](https://inno3.fr/)
 - Diego Antolinos Basso, [Sciences Po CEVIPOF](https://www.sciencespo.fr/cevipof/en.html), [@diegantobass](https://github.com/diegantobass/)
+- Liliana Bounegru, [King's College](https://www.kcl.ac.uk/), [@bb_liliana](https://twitter.com/bb_liliana)
 - Paul Girard, [OuestWare](https://ouestware.com), [@paulgirard](https://github.com/paulgirard)
-- Célya Gruson-Daniel, [inno3](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
+- Célya Gruson-Daniel, [Inno³](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
 - Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), [@jacomyma](https://github.com/jacomyma)
 - Sara Petti, [Open Knowledge Foundation](https://okfn.org/)
 - Matthieu Tottet
