@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# CALL FOR PROPOSAL: Join us at FOSDEM 2022
-## Saturday 5th of February 2022<br> precise time to be confirmed<br>online
+# CALL FOR PROPOSAL:<br>Join us at FOSDEM 2022!
+## Saturday 5th of February 2022 - ONLINE<br>*(precise time to be announced)*
 
 We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2022 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
 We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
@@ -20,29 +20,28 @@ You will find a summary of what happened in our devroom the last two years in th
 
 ## Event and talks format
 
-1. Talks 
-Duration 
+#### 1. Talks
 - *Talks* will last *19 minutes max + 5-10 minutes Q&A*. 
 - *Lightning talks* will last *14 minutes max* and will have shared panel 15 minutes Q&A.
 
 Talks have to be *in English* and have to be pre-recorded in January 2022.
 The video will be published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/).
 
-2. Event format
+#### 2. Event format
 
 The online event is the broadcasting of **a series of pre-recorded video talks**. A chatroom is available all along the event. After each talk video ends (20 minutes), speakers are invited to join a live Q&A session: a video conference room in which one moderator ask the speakers questions that the audience have posted in the event chatroom (5/10 minutes). This discussion is broadcast live to the audience.
 The event can also propose panels of *lightning talks*. A panel is **a series of lightning talks**lasting 15 minutes each. The panel ends with a 15-minutes live Q&A session which set up a discussion between the panel's speakers fuelled by questions from the audience chatroom. 
 
 # HOW TO SUBMIT
 
-1. Important dates:
+#### 1. Important dates:
 - **Proposal Deadline: 16th Dec 2021 23:59 CET**
 - **Accepted talk announced: 31st Dec 2021 at the latest** 
 - **Accepted Talk video upload Deadline: 15th Jan 2022 23:59 CET**
 - **Online conference with live Q&A: 5th Feb 2022**
 - Submit early if you can, as we will evaluate the proposals as they come because of the very tight schedule
 
-2. Submissions must include:
+#### 2. Submissions must include:
 - Abstract
 - Session type *(Lecture or Lightning Talk)*
 - Expected prior knowledge / intended audience
@@ -54,7 +53,7 @@ To get inspired on possible abstracts style, length and format, you can read pre
     - 2021: https://archive.fosdem.org/2021/schedule/track/open_research_tools_and_technologies/
     - 2020: https://archive.fosdem.org/2020/schedule/track/open_research_tools_and_technologies/
     
-3. Pentabarf system : tips
+#### 3. Pentabarf tips (submission system)
 
 Submission process is managed in the Pentabarf system used by the FOSDEM conference.
 
@@ -67,7 +66,7 @@ If you already have a Pentabarf account from a previous FOSDEM event, please reu
 
 If you have any issues with Pentabarf, do not despair: contact us at `research-devroom[at]lists.fosdem.org`
 
-Follow @FosdemResearch on Twitter for updates and announcements.
+Follow [@FosdemResearch](https://twitter.com/FosdemResearch) on Twitter for updates and announcements.
 
 # The Open Research Technologies devroom
 
