@@ -51,8 +51,8 @@ The event can also propose panels of *lightning talks*. A panel is **a series of
 
 To get inspired on possible abstracts style, length and format, you can read previous edition talks on FOSDEM archives:
 
-- 2021: https://archive.fosdem.org/2021/schedule/track/open_research_tools_and_technologies/
-- 2020: https://archive.fosdem.org/2020/schedule/track/open_research_tools_and_technologies/
+- [Open Research @ FOSDEM 2021](https://archive.fosdem.org/2021/schedule/track/open_research_tools_and_technologies/)
+- [Open Research @ FOSDEM 2020](https://archive.fosdem.org/2020/schedule/track/open_research_tools_and_technologies/)
     
 #### 3. Pentabarf tips (submission system)
 
