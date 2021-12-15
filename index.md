@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# CALL FOR PROPOSAL:<br>Join us at FOSDEM 2022!
-## Saturday 5th of February 2022 - ONLINE<br>*(precise time to be announced)*
+# CALL FOR PROPOSAL<br><span style="color: #900;">Deadline extension to 23 December</span>
+## Saturday 5th of February 2022 - ONLINE<br>
 
 We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2022 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
 We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
@@ -35,7 +35,7 @@ The event can also propose panels of *lightning talks*. A panel is **a series of
 # HOW TO SUBMIT
 
 #### 1. Important dates:
-- **Proposal Deadline: <span style="color: #900;">23rd Dec</span> 2021 23:59 CET** *(we extended the deadline)*
+- **Proposal Deadline: <span style="color: #900;">23rd Dec</span> 2021 23:59 CET**<br>*(we extended the deadline)*
 - **Accepted talk announced: 31st Dec 2021 at the latest** 
 - **Accepted Talk video upload Deadline: 15th Jan 2022 23:59 CET**
 - **Online conference with live Q&A: 5th Feb 2022**
