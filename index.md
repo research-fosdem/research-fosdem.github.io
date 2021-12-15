@@ -35,7 +35,7 @@ The event can also propose panels of *lightning talks*. A panel is **a series of
 # HOW TO SUBMIT
 
 #### 1. Important dates:
-- **Proposal Deadline: 16th Dec 2021 23:59 CET**
+- **Proposal Deadline: <span style="color: #900;">23rd Dec</span> 2021 23:59 CET** *(we extended the deadline)*
 - **Accepted talk announced: 31st Dec 2021 at the latest** 
 - **Accepted Talk video upload Deadline: 15th Jan 2022 23:59 CET**
 - **Online conference with live Q&A: 5th Feb 2022**
