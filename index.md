@@ -98,7 +98,7 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 - Célya Gruson-Daniel, [Inno³](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
 - Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), [@jacomyma](https://github.com/jacomyma)
 - Sara Petti, [Open Knowledge Foundation](https://okfn.org/)
-- Matthieu Tottet
+- Matthieu Totet
 - Yo Yehudi
 
 Contact us: `research-devroom-manager [at] fosdem.org`
