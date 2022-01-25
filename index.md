@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-# <span style="color: #0089ff;">Saturday 5th of February 2022 - ONLINE</span>
+# <span style="color: #009926;">Saturday 5th of February 2022</span>
+
+[**Attend online and chat**](https://chat.fosdem.org/#/room/#research:fosdem.org) or with [just the video](https://live.fosdem.org/watch/dresearch).
 
 <!--
 We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2022 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
@@ -70,7 +72,7 @@ If you have any issues with Pentabarf, do not despair: contact us at `research-d
 Follow [@FosdemResearch](https://twitter.com/FosdemResearch) on Twitter for updates and announcements.
 -->
 
-# [2022 SCHEDULE](https://link.infini.fr/open-research-2022-schedule)
+# [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
 
 We have selected 19 great talks of 15 to 20 minutes, with Q&A panels, for a full session from 10:00 to 18:00. [Check our lineup!](https://link.infini.fr/open-research-2022-schedule)
 
