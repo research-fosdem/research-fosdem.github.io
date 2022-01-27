@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-# CALL FOR PROPOSAL<br><span style="color: #900;">Deadline extension to 23 December</span>
-## Saturday 5th of February 2022 - ONLINE<br>
+# <span style="color: #009926;">Saturday 5th of February 2022</span>
 
+[**Attend online and chat**](https://chat.fosdem.org/#/room/#research:fosdem.org) or with [just the video](https://live.fosdem.org/watch/dresearch).
+
+<!--
 We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2022 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
 We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
 
@@ -68,6 +70,14 @@ If you already have a Pentabarf account from a previous FOSDEM event, please reu
 If you have any issues with Pentabarf, do not despair: contact us at `research-devroom[at]lists.fosdem.org`
 
 Follow [@FosdemResearch](https://twitter.com/FosdemResearch) on Twitter for updates and announcements.
+-->
+
+# [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
+
+We have selected 19 great talks of 15 to 20 minutes, with Q&A panels, for a full session from 10:00 to 18:00. [Check our lineup!](https://link.infini.fr/open-research-2022-schedule)
+
+👉 [Follow us on Twitter](https://twitter.com/FosdemResearch) for more coverage.
+
 
 # The Open Research Technologies devroom
 
@@ -104,9 +114,10 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 - Paul Girard, [OuestWare](https://ouestware.com), [@paulgirard](https://github.com/paulgirard)
 - Célya Gruson-Daniel, [Inno³](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
 - Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), [@jacomyma](https://github.com/jacomyma)
-- Sara Petti, [Open Knowledge Foundation](https://okfn.org/)
-- Matthieu Tottet
+- Sara Petti, [Open Knowledge Foundation](https://okfn.org/), [@sapetti9](https://github.com/sapetti9)
+- Matthieu Totet
 - Yo Yehudi
+
 
 Contact us: `research-devroom-manager [at] fosdem.org`
 
