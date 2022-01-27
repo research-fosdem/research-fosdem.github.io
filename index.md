@@ -89,6 +89,13 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 [https://fosdem.org/](https://fosdem.org/)  
 [https://en.wikipedia.org/wiki/FOSDEM](https://en.wikipedia.org/wiki/FOSDEM)
 
+# Link for FOSDEM 2022
+
+* Schedule : [https://minifi.ca/fosdem-schedule](https://minifi.ca/fosdem-schedule)
+* Video Stream : [https://minifi.ca/fosdem-video](https://minifi.ca/fosdem-video)
+* Q&A interface : [https://minifi.ca/fosdem-qa](https://minifi.ca/fosdem-qa )
+* Chat interface : [https://minifi.ca/fosdem-chat](https://minifi.ca/fosdem-chat)
+
 # Organizers
 
 - Maya Anderson-González, [Inno³](https://inno3.fr/)
@@ -120,3 +127,4 @@ Contact us: `research-devroom-manager [at] fosdem.org`
 ![HackYourResearch logo](img/hyr-logo.png)
 
 ![Red Hat logo](img/redhat-logo.svg)
+
