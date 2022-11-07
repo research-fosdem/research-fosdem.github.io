@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# <span style="color: #009926;">JOIN US! Call for participation open.</span>
+# <span style="color: #009926;">JOIN US!<br>Call for participation open.</span>
 
 👉 Saturday 4 February 2023, Université Libre de Bruxelles.
 
@@ -9,7 +9,7 @@ layout: default
 
 
 We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2023 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
-We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
+We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, OSINT, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
 
 We seek talks about:
 * **New releases of open source software**. Introduce a new tool or infrastructure about knowledge production or management. We appreciate context about the project, at the crossroads of open source software and open science.
@@ -60,23 +60,25 @@ To get inspired on possible abstracts style, length and format, you can read pre
 
 Submission process is managed in the Pentabarf system used by the FOSDEM conference.
 
-Apply for a talk: [https://penta.fosdem.org/submission/FOSDEM23](https://penta.fosdem.org/submission/FOSDEM23)
+<span style="background-color: #7dff9d;">**Apply for a talk: [https://penta.fosdem.org/submission/FOSDEM23](https://penta.fosdem.org/submission/FOSDEM23)**</span>
 
-**By submitting your recorded talk you agree to have it made available publicly... forever.** 
+**By submitting your recorded talk you agree to have it made available publicly... forever.**
 
 When submitting your talk in Pentabarf, make sure to select the ‘Open Research Tools and Technologies Devroom’ as the ‘Track’.
 If you already have a Pentabarf account from a previous FOSDEM event, please reuse it. Create an account if, and only if, you don’t have one from a previous year.
 
 If you have any issues with Pentabarf, do not despair: contact us at `research-devroom[at]lists.fosdem.org`
 
-Follow [@FosdemResearch](https://twitter.com/FosdemResearch) on Twitter for updates and announcements.
+Follow us [on Twitter (@FosdemResearch)](https://twitter.com/FosdemResearch) or [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
 
 
-<!-- # [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
+<!--
+# [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
 
 We have selected 19 great talks of 15 to 20 minutes, with Q&A panels, for a full session from 10:00 to 18:00. [Check our lineup!](https://link.infini.fr/open-research-2022-schedule)
 
-👉 [Follow us on Twitter](https://twitter.com/FosdemResearch) for more coverage. -->
+👉 [Follow us on Twitter](https://twitter.com/FosdemResearch) for more coverage.
+-->
 
 
 # The Open Research Technologies devroom
