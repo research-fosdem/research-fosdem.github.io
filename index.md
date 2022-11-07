@@ -1,22 +1,23 @@
 ---
 layout: default
 ---
+
 # <span style="color: #009926;">JOIN US!<br>Call for participation open.</span>
 
 👉 Saturday 4 February 2023, Université Libre de Bruxelles.
 
 <!-- [**Attend online and chat**](https://chat.fosdem.org/#/room/#research:fosdem.org) or with [just the video](https://live.fosdem.org/watch/dresearch). -->
 
-
 We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2023 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
 We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, OSINT, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
 
 We seek talks about:
-* **New releases of open source software**. Introduce a new tool or infrastructure about knowledge production or management. We appreciate context about the project, at the crossroads of open source software and open science.
-* Present and/or ask for feedback on **open technology stacks** used in a knowledge creation or production project (research, journalistic inquiry, archive creation or publication…) which collects, analyses, treats, documents, visualizes, and/or shares data.
-* Discuss **tool design and implementation** that enhance the understanding and literacy of inquiry outputs: data visualisation techniques and issues, knowledge access and exploration means. E.g., how to hold an algorithm accountable to social scientists; how to foster better reproducibility and interoperability thanks to FLOSS; or how to cope with biases of a chart for a data journalist.
-* Contribute to the debate about **bridging tech culture with research and investigative environments** (data journalism, investigative journalism, activism and academia), including tips and best practices for navigating tensions, as well as the contribution of the open source movement to research and investigations sustainability through organizational hosting, funding for projects, support and maintenance, etc.)
-* Share your experience about building open source devices or communities across a variety of research and investigative contexts.
+
+- **New releases of open source software**. Introduce a new tool or infrastructure about knowledge production or management. We appreciate context about the project, at the crossroads of open source software and open science.
+- Present and/or ask for feedback on **open technology stacks** used in a knowledge creation or production project (research, journalistic inquiry, archive creation or publication…) which collects, analyses, treats, documents, visualizes, and/or shares data.
+- Discuss **tool design and implementation** that enhance the understanding and literacy of inquiry outputs: data visualisation techniques and issues, knowledge access and exploration means. E.g., how to hold an algorithm accountable to social scientists; how to foster better reproducibility and interoperability thanks to FLOSS; or how to cope with biases of a chart for a data journalist.
+- Contribute to the debate about **bridging tech culture with research and investigative environments** (data journalism, investigative journalism, activism and academia), including tips and best practices for navigating tensions, as well as the contribution of the open source movement to research and investigations sustainability through organizational hosting, funding for projects, support and maintenance, etc.)
+- Share your experience about building open source devices or communities across a variety of research and investigative contexts.
 
 We welcome talks from various research and investigative contexts: research labs, libraries, newsrooms, museums, hackerspaces, maker labs, community and activist groups. We welcome your experience on various topics: open science, open data, commons, research on research, sustainability... Any subjects related to open source technologies in research contexts are welcome even if not in this list.
 
@@ -25,37 +26,42 @@ You will find a summary of what happened in our devroom the first two years in t
 ## Event and talks format
 
 #### 1. Talks
-- *Talks* will last *25 minutes max*, with 5 minutes for questions and changing speaker. A 20/10 split also works.
-- *Lightning talks* will last *15 minutes max* or a bit less if you want room for questions.
 
-Talks have to be *in English* and will be recorded and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/).
+- _Talks_ will last _25 minutes max_, with 5 minutes for questions and changing speaker. A 20/10 split also works.
+- _Lightning talks_ will last _15 minutes max_ or a bit less if you want room for questions.
+
+Talks have to be _in English_ and will be recorded and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/).
 
 #### 2. Event format
 
-The FOSDEM will be **physical** this year (in Bruxelles, not online).
+The FOSDEM will be **physical** this year (in Bruxelles).
+
+Hybrid might be an option to allow some talks to be prerecorded + live Q/A but there is no confirmation on this posibility yet.
 
 # HOW TO SUBMIT
 
 #### 1. Important dates:
+
 - **Proposal Deadline: <span style="color: #900;">4th Dec</span> 2022 23:59 CET**
-- **Accepted talk announced: 15th Dec 2022 at the latest** 
+- **Accepted talk announced: 15th Dec 2022 at the latest**
 - **Conference: 4th Feb 2022** morning + afternoon
 - Submit early if you can, as we will evaluate the proposals as they come because of the very tight schedule
 
 #### 2. Submissions must include:
+
 - Abstract
-- Session type *(Lecture or Lightning Talk)*
+- Session type _(Lecture or Lightning Talk)_
 - Expected prior knowledge / intended audience
 - Speaker bio
-- Links to code / slides / material for the talk *(optional)*
-- Links to previous talks by the speaker *(optional)*
+- Links to code / slides / material for the talk _(optional)_
+- Links to previous talks by the speaker _(optional)_
 
 To get inspired on possible abstracts style, length and format, you can read previous edition talks on FOSDEM archives:
 
 - [Open Research @ FOSDEM 2022](https://archive.fosdem.org/2022/schedule/track/open_research_tools_and_technologies/)
 - [Open Research @ FOSDEM 2021](https://archive.fosdem.org/2021/schedule/track/open_research_tools_and_technologies/)
 - [Open Research @ FOSDEM 2020](https://archive.fosdem.org/2020/schedule/track/open_research_tools_and_technologies/)
-    
+
 #### 3. Pentabarf tips (submission system)
 
 Submission process is managed in the Pentabarf system used by the FOSDEM conference.
@@ -67,10 +73,9 @@ Submission process is managed in the Pentabarf system used by the FOSDEM confere
 When submitting your talk in Pentabarf, make sure to select the ‘Open Research Tools and Technologies Devroom’ as the ‘Track’.
 If you already have a Pentabarf account from a previous FOSDEM event, please reuse it. Create an account if, and only if, you don’t have one from a previous year.
 
-If you have any issues with Pentabarf, do not despair: contact us at `research-devroom[at]lists.fosdem.org`
+If you have any issues with Pentabarf, do not despair: contact us at ~~`research-devroom[at]lists.fosdem.org`~~ (mailing list not active yet please be patient).
 
 Follow us [on Twitter (@FosdemResearch)](https://twitter.com/FosdemResearch) or [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
-
 
 <!--
 # [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
@@ -80,7 +85,6 @@ We have selected 19 great talks of 15 to 20 minutes, with Q&A panels, for a full
 👉 [Follow us on Twitter](https://twitter.com/FosdemResearch) for more coverage.
 -->
 
-
 # The Open Research Technologies devroom
 
 The Open Research Technologies devroom addresses [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html) developers in a broad community concerned with research production and curation: scientists, engineers, journalists, archivists, curators, activists.
@@ -88,6 +92,7 @@ The tools and technologies targeted are typically creating, handling or sharing 
 This devroom provides a place and time to discuss the issues related to the creation and usage of open research technologies, with the ambition to foster discussions between designers, developers and users, bridging multiple knowledge-based communities together, and with the broader FLOSS community.
 
 The Open Research Technologies devroom aims to:
+
 - Allow knowledge-based tool developers to publicize their effort and become aware of other FLOSS projects.
 - Facilitate the pooling of coding efforts on (often poorly funded) tools.
 - Create a network where otherwise isolated developers, research engineers can share common FLOSS concerns.
@@ -102,6 +107,7 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 [https://en.wikipedia.org/wiki/FOSDEM](https://en.wikipedia.org/wiki/FOSDEM)
 
 # Organizers
+
 - Diego Antolinos Basso, [Sciences Po CEVIPOF](https://www.sciencespo.fr/cevipof/en.html), [@diegantobass](https://github.com/diegantobass/)
 - Paul Girard, [OuestWare](https://ouestware.com), [@paulgirard](https://github.com/paulgirard)
 - Maya Anderson-González
@@ -113,7 +119,6 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 - Célya Gruson-Daniel, [Inno³](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
 - Yo Yehudi
 -->
-
 
 Contact us: `research-devroom-manager [at] fosdem.org`
 
