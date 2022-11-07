@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
-# <span style="color: #009926;">Saturday 5th of February 2022</span>
+# <span style="color: #009926;">JOIN US! Call for participation open.</span>
 
-[**Attend online and chat**](https://chat.fosdem.org/#/room/#research:fosdem.org) or with [just the video](https://live.fosdem.org/watch/dresearch).
+👉 Saturday 4 February 2023, Université Libre de Bruxelles.
 
-<!--
-We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2022 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
+<!-- [**Attend online and chat**](https://chat.fosdem.org/#/room/#research:fosdem.org) or with [just the video](https://live.fosdem.org/watch/dresearch). -->
+
+
+We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2023 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
 We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
 
 We seek talks about:
@@ -18,29 +20,26 @@ We seek talks about:
 
 We welcome talks from various research and investigative contexts: research labs, libraries, newsrooms, museums, hackerspaces, maker labs, community and activist groups. We welcome your experience on various topics: open science, open data, commons, research on research, sustainability... Any subjects related to open source technologies in research contexts are welcome even if not in this list.
 
-You will find a summary of what happened in our devroom the last two years in this blog post: https://reticular.hypotheses.org/1825
+You will find a summary of what happened in our devroom the first two years in this blog post: https://reticular.hypotheses.org/1825
 
 ## Event and talks format
 
 #### 1. Talks
-- *Talks* will last *19 minutes max + 5-10 minutes Q&A*. 
-- *Lightning talks* will last *14 minutes max* and will have shared panel 15 minutes Q&A.
+- *Talks* will last *25 minutes max*, with 5 minutes for questions and changing speaker. A 20/10 split also works.
+- *Lightning talks* will last *15 minutes max* or a bit less if you want room for questions.
 
-Talks have to be *in English* and have to be pre-recorded in January 2022.
-The video will be published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/).
+Talks have to be *in English* and will be recorded and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/).
 
 #### 2. Event format
 
-The online event is the broadcasting of **a series of pre-recorded video talks**. A chatroom is available all along the event. After each talk video ends (20 minutes), speakers are invited to join a live Q&A session: a video conference room in which one moderator ask the speakers questions that the audience have posted in the event chatroom (5/10 minutes). This discussion is broadcast live to the audience.
-The event can also propose panels of *lightning talks*. A panel is **a series of lightning talks**lasting 15 minutes each. The panel ends with a 15-minutes live Q&A session which set up a discussion between the panel's speakers fuelled by questions from the audience chatroom. 
+The FOSDEM will be **physical** this year (in Bruxelles, not online).
 
 # HOW TO SUBMIT
 
 #### 1. Important dates:
-- **Proposal Deadline: <span style="color: #900;">23rd Dec</span> 2021 23:59 CET**<br>*(we extended the deadline)*
-- **Accepted talk announced: 31st Dec 2021 at the latest** 
-- **Accepted Talk video upload Deadline: 15th Jan 2022 23:59 CET**
-- **Online conference with live Q&A: 5th Feb 2022**
+- **Proposal Deadline: <span style="color: #900;">4th Dec</span> 2022 23:59 CET**
+- **Accepted talk announced: 15th Dec 2022 at the latest** 
+- **Conference: 4th Feb 2022** morning + afternoon
 - Submit early if you can, as we will evaluate the proposals as they come because of the very tight schedule
 
 #### 2. Submissions must include:
@@ -53,6 +52,7 @@ The event can also propose panels of *lightning talks*. A panel is **a series of
 
 To get inspired on possible abstracts style, length and format, you can read previous edition talks on FOSDEM archives:
 
+- [Open Research @ FOSDEM 2022](https://archive.fosdem.org/2022/schedule/track/open_research_tools_and_technologies/)
 - [Open Research @ FOSDEM 2021](https://archive.fosdem.org/2021/schedule/track/open_research_tools_and_technologies/)
 - [Open Research @ FOSDEM 2020](https://archive.fosdem.org/2020/schedule/track/open_research_tools_and_technologies/)
     
@@ -60,7 +60,7 @@ To get inspired on possible abstracts style, length and format, you can read pre
 
 Submission process is managed in the Pentabarf system used by the FOSDEM conference.
 
-Apply for a talk: [https://penta.fosdem.org/submission/FOSDEM22](https://penta.fosdem.org/submission/FOSDEM22)
+Apply for a talk: [https://penta.fosdem.org/submission/FOSDEM23](https://penta.fosdem.org/submission/FOSDEM23)
 
 **By submitting your recorded talk you agree to have it made available publicly... forever.** 
 
@@ -70,13 +70,13 @@ If you already have a Pentabarf account from a previous FOSDEM event, please reu
 If you have any issues with Pentabarf, do not despair: contact us at `research-devroom[at]lists.fosdem.org`
 
 Follow [@FosdemResearch](https://twitter.com/FosdemResearch) on Twitter for updates and announcements.
--->
 
-# [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
+
+<!-- # [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
 
 We have selected 19 great talks of 15 to 20 minutes, with Q&A panels, for a full session from 10:00 to 18:00. [Check our lineup!](https://link.infini.fr/open-research-2022-schedule)
 
-👉 [Follow us on Twitter](https://twitter.com/FosdemResearch) for more coverage.
+👉 [Follow us on Twitter](https://twitter.com/FosdemResearch) for more coverage. -->
 
 
 # The Open Research Technologies devroom
@@ -100,34 +100,35 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 [https://en.wikipedia.org/wiki/FOSDEM](https://en.wikipedia.org/wiki/FOSDEM)
 
 # Organizers
-
-- Maya Anderson-González, [Inno³](https://inno3.fr/)
 - Diego Antolinos Basso, [Sciences Po CEVIPOF](https://www.sciencespo.fr/cevipof/en.html), [@diegantobass](https://github.com/diegantobass/)
-- Liliana Bounegru, [King's College](https://www.kcl.ac.uk/), [@bb_liliana](https://twitter.com/bb_liliana)
 - Paul Girard, [OuestWare](https://ouestware.com), [@paulgirard](https://github.com/paulgirard)
-- Célya Gruson-Daniel, [Inno³](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
+- Maya Anderson-González
 - Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), [@jacomyma](https://github.com/jacomyma)
 - Sara Petti, [Open Knowledge Foundation](https://okfn.org/), [@sapetti9](https://github.com/sapetti9)
 - Matthieu Totet
+
+<!--
+- Célya Gruson-Daniel, [Inno³](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
 - Yo Yehudi
+-->
 
 
 Contact us: `research-devroom-manager [at] fosdem.org`
 
-![G-Node logo](img/g-node-logo.png)
+<!-- ![G-Node logo](img/g-node-logo.png) -->
 
 ![OuestWare logo](img/ouestware-logo.svg)
 
 ![TANTLab logo](img/tantlab-logo.png)
 
-![NFDI logo](img/nfdi-logo.png)
+<!-- ![NFDI logo](img/nfdi-logo.png) -->
 
 ![CEVIPOF logo](img/cevipof-logo.png)
 
 ![OKFN logo](img/OKFN-logo.png)
 
-![Inno3 logo](img/Inno3-logo.png)
+<!-- ![Inno3 logo](img/Inno3-logo.png) -->
 
-![HackYourResearch logo](img/hyr-logo.png)
+<!-- ![HackYourResearch logo](img/hyr-logo.png) -->
 
-![Red Hat logo](img/redhat-logo.svg)
+<!-- ![Red Hat logo](img/redhat-logo.svg) -->
