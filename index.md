@@ -25,18 +25,22 @@ You will find a summary of what happened in our devroom the first two years in t
 
 ## Event and talks format
 
+Our devroom is split into 6 hours of physical talks (in Bruxelles) and about 2h of online talks (pre-recorded).
+
 #### 1. Talks
 
-- _Talks_ will last _25 minutes max_, with 5 minutes for questions and changing speaker. A 20/10 split also works.
-- _Lightning talks_ will last _15 minutes max_ or a bit less if you want room for questions.
+- _Physical talks_ will last _25 minutes max_, followed by 5 minutes for questions and changing speaker. A 20/10 split also works.
+- _Physical lightning talks_ will last _15 minutes max_ or a bit less if you want room for questions.
+- _Online talks_ consist of a pre-recorded video of _19 minutes max_, followed by 5-10 minutes of online Q&A.
+- _Online lightning talks_ consist of a pre-recorded video of _14 minutes max_ or a bit less if you want room for online Q&A.
 
-Talks have to be _in English_ and will be recorded and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/).
+Talks have to be _in English_ and will be recorded (including the live Q&A for online talks) and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/).
+
+The FOSDEM's online platform allows the speakers of online talks to stay in their virtual room and chat with the audience while the following talk starts.
 
 #### 2. Event format
 
-The FOSDEM will be **physical** this year (in Bruxelles).
-
-Hybrid might be an option to allow some talks to be prerecorded + live Q/A but there is no confirmation on this posibility yet.
+The FOSDEM will be **physical** this year (in Bruxelles), but we reserved 1/4 of our time to online talks. The physical talks can be seen online via a stream, but the speakers will not take questions from the online audience (and there is some lag). The online talks will not be broadcasted in our physical room because another devroom needs it. It can be watched on an individual basis from anywhere, but we may obtain a dedicated room to watch it together somewhere else. This will be addressed when we get closer to the event.
 
 # HOW TO SUBMIT
 
