@@ -77,7 +77,7 @@ Submission process is managed in the Pentabarf system used by the FOSDEM confere
 When submitting your talk in Pentabarf, make sure to select the ‘Open Research Tools and Technologies Devroom’ as the ‘Track’.
 If you already have a Pentabarf account from a previous FOSDEM event, please reuse it. Create an account if, and only if, you don’t have one from a previous year.
 
-If you have any issues with Pentabarf, do not despair: contact us at ~~`research-devroom[at]lists.fosdem.org`~~ (mailing list not active yet please be patient).
+If you have any issues with Pentabarf, do not despair: contact us at `research-devroom-manager[at]fosdem.org`.
 
 Follow us [on Twitter (@FosdemResearch)](https://twitter.com/FosdemResearch) or [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
 
