@@ -117,7 +117,7 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 - Maya Anderson-González, Free Libre and Open Social Scientist \o/ [@MayaAndersonGonzalez](https://github.com/MayaAndersonGonzalez)
 - Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), [@jacomyma](https://github.com/jacomyma)
 - Sara Petti, [Open Knowledge Foundation](https://okfn.org/), [@sapetti9](https://github.com/sapetti9)
-- Matthieu Totet
+- Matthieu Totet [@totetmatt](https://github.com/totetmatt)
 
 <!--
 - Célya Gruson-Daniel, [Inno³](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
