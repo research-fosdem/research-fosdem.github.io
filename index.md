@@ -21,7 +21,7 @@ We seek talks about:
 
 We welcome talks from various research and investigative contexts: research labs, libraries, newsrooms, museums, hackerspaces, maker labs, community and activist groups. We welcome your experience on various topics: open science, open data, commons, research on research, sustainability... Any subjects related to open source technologies in research contexts are welcome even if not in this list.
 
-You will find a summary of what happened in our devroom the first two years in this blog post: https://reticular.hypotheses.org/1825
+You will find a summary of what happened in our devroom the first two years in this blog post: [reticular.hypotheses.org/1825](https://reticular.hypotheses.org/1825)
 
 ## Event and talks format
 
