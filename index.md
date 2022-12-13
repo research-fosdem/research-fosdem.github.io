@@ -2,13 +2,14 @@
 layout: default
 ---
 
-# <span style="color: #009926;">JOIN US!<br>Call for participation open.</span>
-
-👉 Saturday 4 February 2023, Université Libre de Bruxelles.
+# WE ARE ASSESSING THE PROPOSALS
+*The 2023 schedule will be announced soon.*
 
 <!-- [**Attend online and chat**](https://chat.fosdem.org/#/room/#research:fosdem.org) or with [just the video](https://live.fosdem.org/watch/dresearch). -->
 
-We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2023 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
+👉 Join us Saturday 4 February 2023, Université Libre de Bruxelles.
+
+<!-- We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2023 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
 We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, OSINT, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
 
 We seek talks about:
@@ -80,6 +81,7 @@ If you already have a Pentabarf account from a previous FOSDEM event, please reu
 If you have any issues with Pentabarf, do not despair: contact us at `research-devroom-manager[at]fosdem.org`.
 
 Follow us [on Twitter (@FosdemResearch)](https://twitter.com/FosdemResearch) or [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
+ -->
 
 <!--
 # [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
