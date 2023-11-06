@@ -1,6 +1,6 @@
-title: Open Research Tools & Technologies
+title: Open Research Devroom
 logo: ./img/open_research_devroom_fosdem.png
-description: "A place to discuss the creation and use of Free Libre Open Source Software in any kind of research context such as: science, investigative journalism, activism..."
+description: "A place to discuss the creation and use of Free Libre Open Source Software in research context: science, investigative journalism, activism, OSINT..."
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
