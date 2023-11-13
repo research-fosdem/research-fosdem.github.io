@@ -46,7 +46,7 @@ The FOSDEM will be entirely **physical** this year (in Bruxelles), and our onlin
 - **Proposal Deadline: <span style="color: #900;">10 Dec</span> 2022 23:59 CET**
 - **Accepted talk announced: 2023-12-15
 - **FOSDEM Conference: Saturday 3rd Feb 2024** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
-- **unofficial online session: Saturday 10th Feb 2024** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
+- **unofficial online session: Saturday 10th Feb 2024** hours to be precised soon.
 - Submit early if you can!
 
 #### 2. Submissions must include:
