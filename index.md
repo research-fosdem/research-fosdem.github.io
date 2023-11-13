@@ -6,7 +6,7 @@ layout: default
 
 ### 👉 Join us Saturday 3 February 2024, Université Libre de Bruxelles.
 
-<!-- We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2024 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
+We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2024 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
 We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, OSINT, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
 
 We seek talks about:
@@ -19,9 +19,9 @@ We seek talks about:
 
 We welcome talks from various research and investigative contexts: research labs, libraries, newsrooms, museums, hackerspaces, maker labs, community and activist groups. We welcome your experience on various topics: open science, open data, commons, research on research, sustainability... Any subjects related to open source technologies in research contexts are welcome even if not in this list.
 
-You will find a summary of what happened in our devroom the first two years in this blog post: [reticular.hypotheses.org/1825](https://reticular.hypotheses.org/1825) -->
+You will find a summary of what happened in our devroom the first two years in this blog post: [reticular.hypotheses.org/1825](https://reticular.hypotheses.org/1825)
 
-<!-- ## Event and talks format
+## Event and talks format
 
 Our devroom is split into 6 hours of physical talks (in Bruxelles) and about 2h of online talks (pre-recorded).
 
@@ -77,7 +77,7 @@ If you already have a Pentabarf account from a previous FOSDEM event, please reu
 
 If you have any issues with Pentabarf, do not despair: contact us at `research-devroom-manager[at]fosdem.org`.
 
-Follow us [on Twitter (@FosdemResearch)](https://twitter.com/FosdemResearch) or [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements. -->
+Follow us [on Twitter (@FosdemResearch)](https://twitter.com/FosdemResearch) or [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
 
 
 <!--
@@ -109,19 +109,19 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 [https://fosdem.org/](https://fosdem.org/)  
 [https://en.wikipedia.org/wiki/FOSDEM](https://en.wikipedia.org/wiki/FOSDEM)
 
-<!-- # Organizers
+# Organizers
 
 - Diego Antolinos Basso, [Sciences Po CEVIPOF](https://www.sciencespo.fr/cevipof/en.html), [@diegantobass](https://github.com/diegantobass/)
 - Paul Girard, [OuestWare](https://ouestware.com), [@paulgirard](https://github.com/paulgirard)
 - Maya Anderson-González, Free Libre and Open Social Scientist \o/ [@MayaAndersonGonzalez](https://github.com/MayaAndersonGonzalez)
 - Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), [@jacomyma](https://github.com/jacomyma)
 - Sara Petti, [Open Knowledge Foundation](https://okfn.org/), [@sapetti9](https://github.com/sapetti9)
-- Matthieu Totet -->
+- Matthieu Totet
 
-<!--
+
 - Célya Gruson-Daniel, [Inno³](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
 - Yo Yehudi
--->
+
 
 Contact us: `research-devroom-manager [at] fosdem.org`
 
