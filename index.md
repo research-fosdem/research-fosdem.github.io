@@ -3,8 +3,9 @@ layout: default
 ---
 
 <!-- [**Attend online and chat**](https://chat.fosdem.org/#/room/#research:fosdem.org) or with [just the video](https://live.fosdem.org/watch/dresearch). -->
+# CALL FOR PRESENTATIONS OPEN
 
-### 👉 Join us Saturday 3 February 2024, Université Libre de Bruxelles.
+<!-- ### 👉 Join us Saturday 3 February 2024, Université Libre de Bruxelles and Saturday 10 online! -->
 
 We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2024 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
 We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, OSINT, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
@@ -63,16 +64,21 @@ To get inspired on possible abstracts style, length and format, you can read pre
 - [Open Research @ FOSDEM 2021](https://archive.fosdem.org/2021/schedule/track/open_research_tools_and_technologies/)
 - [Open Research @ FOSDEM 2020](https://archive.fosdem.org/2020/schedule/track/open_research_tools_and_technologies/)
 
-#### 3. Pentabarf tips (submission system)
+#### 3. How to submit for the PHYSICAL talks (Pretalx tips)
 
-Submission process is managed in the Pretalx system used by the FOSDEM conference.
+For the official, physical session, the submission process is managed in the Pretalx system used by the FOSDEM conference.
 
-<span style="background-color: #7dff9d;">**Apply for a talk: [LINK NOT READY](http://REPLACEME.com)**</span>
+<span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [LINK NOT READY](http://REPLACEME.com)**</span>
 
 If you have any issues with Pretalx, do not despair: contact us at `research-devroom-manager[at]fosdem.org`.
 
 Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
 
+#### 4. How to submit for the ONLINE session
+
+Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
+
+<span style="background-color: #7dff9d;">**Apply for an _online_ talk: [MAIL NOT READY](http://REPLACEME.com)**</span>
 
 <!--
 # [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
