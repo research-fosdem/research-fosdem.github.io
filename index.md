@@ -24,7 +24,7 @@ You will find a summary of what happened in our devroom the first two years in t
 
 ## Event and talks format
 
-Our official devroom consists of 6 hours of talks held physically in Bruxelles. In addition, we will hold an unofficial session consisting of about 4h of online talks.
+Our official devroom consists of 6 hours of talks held physically in Bruxelles. In addition, we will hold an _unofficial_ session consisting of about 4h of online talks.
 
 _Note: The online session will not be appearing on the FOSDEM website; that's why it's unofficial._
 
@@ -33,7 +33,7 @@ _Note: The online session will not be appearing on the FOSDEM website; that's wh
 - Lecture talks (normal talks) will last _25 minutes max_, followed by 5 minutes for questions and changing speaker. A 20/10 split also works.
 - Lightning talks will last _15 minutes max_ or a bit less if you want room for questions.
 
-Talks have to be _in English_ and will be recorded (including the live Q&A for online talks) and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/). The unofficial, online talks will also be recorded and published, but somewhere else.
+Talks have to be _in English_ and will be recorded and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/). The unofficial, online talks will also be recorded and published, but somewhere else (more on this soon).
 
 #### 2. Event format
 
@@ -43,9 +43,10 @@ The FOSDEM will be entirely **physical** this year (in Bruxelles), and our onlin
 
 #### 1. Important dates:
 
-- **Proposal Deadline: <span style="color: #900;">???? Dec</span> 2022 23:59 CET**
-- **Accepted talk announced: ??????? at the latest**
-- **Conference: Saturday 3rd Feb 2024** morning + afternoon
+- **Proposal Deadline: <span style="color: #900;">10 Dec</span> 2022 23:59 CET**
+- **Accepted talk announced: 2023-12-15
+- **FOSDEM Conference: Saturday 3rd Feb 2024** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
+- **unofficial online session: Saturday 10th Feb 2024** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
 - Submit early if you can!
 
 #### 2. Submissions must include:
@@ -68,7 +69,7 @@ To get inspired on possible abstracts style, length and format, you can read pre
 
 For the official, physical session, the submission process is managed in the Pretalx system used by the FOSDEM conference.
 
-<span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [LINK NOT READY](http://REPLACEME.com)**</span>
+<span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [https://pretalx.fosdem.org/fosdem-2024/cfp](https://pretalx.fosdem.org/fosdem-2024/cfp)**</span>
 
 If you have any issues with Pretalx, do not despair: contact us at `research-devroom-manager[at]fosdem.org`.
 
@@ -78,7 +79,7 @@ Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/we
 
 Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
 
-<span style="background-color: #7dff9d;">**Apply for an _online_ talk: [MAIL NOT READY](http://REPLACEME.com)**</span>
+<span style="background-color: #7dff9d;">**Apply for an _online_ talk : [MAIL NOT READY](http://REPLACEME.com)**</span>
 
 <!--
 # [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
@@ -117,7 +118,7 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 - Luisa Orozco
 - Mathieu Jacomy, assistant professor at the [Tantlab](https://www.en.culture.aau.dk/research/research-groups/tantlab) in Copenhagen and designer of [Gephi](https://gephi.org/).
 - Maya Anderson-González
-- Paul Girard
+- Paul Girard, Human Data Interfaces engineer at [OuestWare](https://ouestware.com)
 - Sara Petti
 - Victor Daussy-Renaudin
 - Violeta Menéndez González
