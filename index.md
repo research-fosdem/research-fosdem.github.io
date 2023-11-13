@@ -23,31 +23,29 @@ You will find a summary of what happened in our devroom the first two years in t
 
 ## Event and talks format
 
-Our devroom is split into 6 hours of physical talks (in Bruxelles) and about 2h of online talks (pre-recorded).
+Our official devroom consists of 6 hours of talks held physically in Bruxelles. In addition, we will hold an unofficial session consisting of about 4h of online talks.
+
+_Note: The online session will not be appearing on the FOSDEM website; that's why it's unofficial._
 
 #### 1. Talks
 
-- _Physical talks_ will last _25 minutes max_, followed by 5 minutes for questions and changing speaker. A 20/10 split also works.
-- _Physical lightning talks_ will last _15 minutes max_ or a bit less if you want room for questions.
-- _Online talks_ consist of a pre-recorded video of _19 minutes max_, followed by 5-10 minutes of online Q&A.
-- _Online lightning talks_ consist of a pre-recorded video of _14 minutes max_ or a bit less if you want room for online Q&A.
+- Lecture talks (normal talks) will last _25 minutes max_, followed by 5 minutes for questions and changing speaker. A 20/10 split also works.
+- Lightning talks will last _15 minutes max_ or a bit less if you want room for questions.
 
-Talks have to be _in English_ and will be recorded (including the live Q&A for online talks) and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/).
-
-The FOSDEM's online platform allows the speakers of online talks to stay in their virtual room and chat with the audience while the following talk starts.
+Talks have to be _in English_ and will be recorded (including the live Q&A for online talks) and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/). The unofficial, online talks will also be recorded and published, but somewhere else.
 
 #### 2. Event format
 
-The FOSDEM will be **physical** this year (in Bruxelles), but we reserved 1/4 of our time to online talks. The physical talks can be seen online via a stream, but the speakers will not take questions from the online audience (and there is some lag). The online talks will not be broadcasted in our physical room because another devroom needs it. It can be watched on an individual basis from anywhere, but we may obtain a dedicated room to watch it together somewhere else. This will be addressed when we get closer to the event.
+The FOSDEM will be entirely **physical** this year (in Bruxelles), and our online session will be held unofficially one week later. All the talks can be seen online via a stream.
 
 # HOW TO SUBMIT
 
 #### 1. Important dates:
 
-- **Proposal Deadline: <span style="color: #900;">4th Dec</span> 2022 23:59 CET**
-- **Accepted talk announced: 15th Dec 2022 at the latest**
-- **Conference: 4th Feb 2022** morning + afternoon
-- Submit early if you can, as we will evaluate the proposals as they come because of the very tight schedule
+- **Proposal Deadline: <span style="color: #900;">???? Dec</span> 2022 23:59 CET**
+- **Accepted talk announced: ??????? at the latest**
+- **Conference: Saturday 3rd Feb 2024** morning + afternoon
+- Submit early if you can!
 
 #### 2. Submissions must include:
 
@@ -60,24 +58,20 @@ The FOSDEM will be **physical** this year (in Bruxelles), but we reserved 1/4 of
 
 To get inspired on possible abstracts style, length and format, you can read previous edition talks on FOSDEM archives:
 
+- [Open Research @ FOSDEM 2023](https://archive.fosdem.org/2023/schedule/track/open_research_tools_and_technology/)
 - [Open Research @ FOSDEM 2022](https://archive.fosdem.org/2022/schedule/track/open_research_tools_and_technologies/)
 - [Open Research @ FOSDEM 2021](https://archive.fosdem.org/2021/schedule/track/open_research_tools_and_technologies/)
 - [Open Research @ FOSDEM 2020](https://archive.fosdem.org/2020/schedule/track/open_research_tools_and_technologies/)
 
 #### 3. Pentabarf tips (submission system)
 
-Submission process is managed in the Pentabarf system used by the FOSDEM conference.
+Submission process is managed in the Pretalx system used by the FOSDEM conference.
 
-<span style="background-color: #7dff9d;">**Apply for a talk: [https://penta.fosdem.org/submission/FOSDEM23](https://penta.fosdem.org/submission/FOSDEM23)**</span>
+<span style="background-color: #7dff9d;">**Apply for a talk: [LINK NOT READY](http://REPLACEME.com)**</span>
 
-**By submitting your recorded talk you agree to have it made available publicly... forever.**
+If you have any issues with Pretalx, do not despair: contact us at `research-devroom-manager[at]fosdem.org`.
 
-When submitting your talk in Pentabarf, make sure to select the ‘Open Research Tools and Technologies Devroom’ as the ‘Track’.
-If you already have a Pentabarf account from a previous FOSDEM event, please reuse it. Create an account if, and only if, you don’t have one from a previous year.
-
-If you have any issues with Pentabarf, do not despair: contact us at `research-devroom-manager[at]fosdem.org`.
-
-Follow us [on Twitter (@FosdemResearch)](https://twitter.com/FosdemResearch) or [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
+Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
 
 
 <!--
@@ -88,7 +82,7 @@ We have selected 19 great talks of 15 to 20 minutes, with Q&A panels, for a full
 👉 [Follow us on Twitter](https://twitter.com/FosdemResearch) for more coverage.
 -->
 
-# The Open Research devroom
+# About the Open Research devroom
 
 The Open Research devroom addresses [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html) developers in a broad community concerned with research production and curation: scientists, engineers, journalists, archivists, curators, activists.
 The tools and technologies targeted are typically creating, handling or sharing knowledge artifacts: data, academic papers, books, collections, web contents, algorithms, artworks.
@@ -111,15 +105,16 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 
 # Organizers
 
-- Diego Antolinos Basso, [Sciences Po CEVIPOF](https://www.sciencespo.fr/cevipof/en.html), [@diegantobass](https://github.com/diegantobass/)
-- Paul Girard, [OuestWare](https://ouestware.com), [@paulgirard](https://github.com/paulgirard)
-- Maya Anderson-González, Free Libre and Open Social Scientist \o/ [@MayaAndersonGonzalez](https://github.com/MayaAndersonGonzalez)
-- Mathieu Jacomy, [Aalborg University TANT Lab](https://www.tantlab.aau.dk/), [@jacomyma](https://github.com/jacomyma)
-- Sara Petti, [Open Knowledge Foundation](https://okfn.org/), [@sapetti9](https://github.com/sapetti9)
-- Matthieu Totet
-
-
-- Célya Gruson-Daniel, [Inno³](https://inno3.fr/) & [HackYourReseach](https://twitter.com/HackResearch), [@celyagd](https://github.com/Celyagd)
+- Anne Lee Steele
+- Célya Gruson-Daniel
+- Diego Antolinos-Basso
+- Luisa Orozco
+- Mathieu Jacomy, assistant professor at the [Tantlab](https://www.en.culture.aau.dk/research/research-groups/tantlab) in Copenhagen and designer of [Gephi](https://gephi.org/).
+- Maya Anderson-González
+- Paul Girard
+- Sara Petti
+- Victor Daussy-Renaudin
+- Violeta Menéndez González
 - Yo Yehudi
 
 
