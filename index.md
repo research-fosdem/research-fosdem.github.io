@@ -114,7 +114,7 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 
 - Anne Lee Steele
 - Célya Gruson-Daniel
-- Diego Antolinos-Basso
+- Diego Antolinos-Basso, research engineer at the [médialab](https://medialab.sciencespo.fr/) and the [CEVIPOF](https://www.sciencespo.fr/cevipof/), Sciences Po Paris
 - Luisa Orozco
 - Mathieu Jacomy, assistant professor at the [Tantlab](https://www.en.culture.aau.dk/research/research-groups/tantlab) in Copenhagen and designer of [Gephi](https://gephi.org/).
 - Maya Anderson-González
