@@ -44,19 +44,28 @@ The FOSDEM will be entirely **physical** this year (in Bruxelles), and our onlin
 #### 1. Important dates:
 
 - **Proposal Deadline: <span style="color: #900;">10 Dec</span> 2022 23:59 CET**
-- **Accepted talk announced: 2023-12-15
+- **Accepted talk announced: 2023-12-15**
 - **FOSDEM Conference: Saturday 3rd Feb 2024** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
 - **unofficial online session: Saturday 10th Feb 2024** hours to be precised soon.
 - Submit early if you can!
 
-#### 2. Submissions must include:
+#### 2. Submissions
 
-- Abstract
-- Session type _(Lecture or Lightning Talk)_
-- Expected prior knowledge / intended audience
-- Speaker bio
-- Links to code / slides / material for the talk _(optional)_
-- Links to previous talks by the speaker _(optional)_
+Must include:
+- Title
+- Abstract 
+- Description
+- Talk licence: FOSDEM is an open-source software conference, please specify which OSI approved license your proposal uses.
+- Speaker name, contact, biography and availability
+
+Can include:
+- Submission notes: write if you want to give a Lightning talk or Lecture here. Add any other details as needed (visible only to devrooms managers)
+- Session Image:  Use this if you want an illustration to go with your proposal. Please do not upload files larger than 10.0 MB.
+- Additional speaker: you can add co-author
+- Extra review material: private materials you want to show to reviewers
+
+Please make sure to add links to relevant online materials (such as website, publications, code ripository...) to either abstract or extra review material.
+   
 
 To get inspired on possible abstracts style, length and format, you can read previous edition talks on FOSDEM archives:
 
@@ -68,6 +77,8 @@ To get inspired on possible abstracts style, length and format, you can read pre
 #### 3. How to submit for the PHYSICAL talks (Pretalx tips)
 
 For the official, physical session, the submission process is managed in the Pretalx system used by the FOSDEM conference.
+You must create an account in the system to submit (Pretalx replaces the previous pentabarf system you need to create a new user account).
+Once logged in, select “submit a CFP” and select the "Open research" track.
 
 <span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [https://pretalx.fosdem.org/fosdem-2024/cfp](https://pretalx.fosdem.org/fosdem-2024/cfp)**</span>
 
@@ -125,7 +136,9 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 - Yo Yehudi
 
 
-Contact us: `research-devroom-manager [at] fosdem.org`
+Contact us: [open.research.devroom@protonmail.com](mailto:open.research.devroom@protonmail.com)
+
+<!-- `research-devroom-manager [at] fosdem.org` -->
 
 <!-- ![G-Node logo](img/g-node-logo.png) -->
 
