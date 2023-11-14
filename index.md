@@ -79,7 +79,7 @@ Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/we
 
 Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
 
-<span style="background-color: #7dff9d;">**Apply for an _online_ talk : [MAIL NOT READY](http://REPLACEME.com)**</span>
+<span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [open.research.devroom@protonmail.com](mailto:open.research.devroom@protonmail.com)**</span>
 
 <!--
 # [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
