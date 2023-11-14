@@ -43,7 +43,7 @@ The FOSDEM will be entirely **physical** this year (in Bruxelles), and our onlin
 
 #### 1. Important dates:
 
-- **Proposal Deadline: <span style="color: #900;">10 Dec</span> 2022 23:59 CET**
+- **Proposal Deadline: <span style="color: #900;">10 Dec</span> 2023 23:59 CET**
 - **Accepted talk announced: 2023-12-15**
 - **FOSDEM Conference: Saturday 3rd Feb 2024** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
 - **unofficial online session: Saturday 10th Feb 2024** hours to be precised soon.
@@ -130,7 +130,7 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 - Mathieu Jacomy, assistant professor at the [Tantlab](https://www.en.culture.aau.dk/research/research-groups/tantlab) in Copenhagen and designer of [Gephi](https://gephi.org/).
 - Maya Anderson-González
 - Paul Girard, Human Data Interfaces engineer at [OuestWare](https://ouestware.com)
-- Sara Petti
+- Sara Petti, Network Lead at [Open Knowledge Foundation](https://okfn.org/)
 - Victor Daussy-Renaudin
 - Violeta Menéndez González
 - Yo Yehudi
