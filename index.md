@@ -82,7 +82,7 @@ Once logged in, select “submit a CFP” and select the "Open research" track.
 
 <span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [https://pretalx.fosdem.org/fosdem-2024/cfp](https://pretalx.fosdem.org/fosdem-2024/cfp)**</span>
 
-If you have any issues with Pretalx, do not despair: contact us at `research-devroom-manager[at]fosdem.org`.
+If you have any issues with Pretalx, do not despair: contact us at [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org).
 
 Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
 
@@ -136,7 +136,7 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 - Yo Yehudi
 
 
-Contact us: [open.research.devroom@protonmail.com](mailto:open.research.devroom@protonmail.com)
+Contact us: [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)
 
 <!-- `research-devroom-manager [at] fosdem.org` -->
 
