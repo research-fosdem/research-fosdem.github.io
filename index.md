@@ -138,6 +138,8 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 
 Contact us: [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)
 
+Want to view the **schedule for the online talks**? Use this [link](% link 2024-online-schedule.md %)! 
+
 <!-- `research-devroom-manager [at] fosdem.org` -->
 
 <!-- ![G-Node logo](img/g-node-logo.png) -->
