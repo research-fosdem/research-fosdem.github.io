@@ -64,7 +64,7 @@ Can include:
 - Additional speaker: you can add co-author
 - Extra review material: private materials you want to show to reviewers
 
-Please make sure to add links to relevant online materials (such as website, publications, code ripository...) to either abstract or extra review material.
+Please make sure to add links to relevant online materials (such as website, publications, code repository...) to either abstract or extra review material.
    
 
 To get inspired on possible abstracts style, length and format, you can read previous edition talks on FOSDEM archives:
@@ -137,6 +137,8 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 
 
 Contact us: [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)
+
+Want to view the **schedule for the online talks**? Use this [link](% link 2024-online-schedule.md %)! 
 
 <!-- `research-devroom-manager [at] fosdem.org` -->
 
