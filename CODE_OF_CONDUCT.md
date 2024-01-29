@@ -60,7 +60,7 @@ Communities and projects:
 - Frictionless Data: https://frictionlessdata.io/work-with-us/code-of-conduct/
 
 Events and conferences
-- csv,conf: (https://csvconf.com/coc/)
+- [csv,conf](https://csvconf.com/coc/)
 - Mozilla Festival: 
 - eLife Sprint Code of Conduct
 - PyCon Code of Conduct 
