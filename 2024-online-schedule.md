@@ -1,4 +1,16 @@
-## 2024 FOSDEM ONLINE SCHEDULE
+## 2024 Open Research Online Devroom talks
+
+The call will be hosted on Zoom, allowing us to provide realtime captions and translation. 
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/84519906281?pwd=UGpuMFBHeis3RTE3c0dnc2c5dUZTZz09
+
+Meeting ID: 845 1990 6281
+Passcode: 138837
+
+Interactive Q&A doc: https://annuel2.framapad.org/p/open-research-2024-online 
+
+## Schedule: 
 
 | S/No.   | TIME (CET)   |  End  | Title | Author | Chair |
 |:--------|:-------------|:------|:------------------------------------------------------------------------------------------------------------------------|:------------------------------|:--------|
