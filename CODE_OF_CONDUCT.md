@@ -61,7 +61,7 @@ Communities and projects:
 
 Events and conferences
 - csv,conf: https://csvconf.com/coc/
-- Mozilla Festival: 
+- Mozilla Festival: https://www.mozillafestival.org/en/guidelines/
 - eLife Sprint Code of Conduct: https://sprint.elifesciences.org/index.html
 - PyCon Code of Conduct 
 
