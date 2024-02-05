@@ -19,16 +19,17 @@ Interactive Q&A doc: [https://annuel2.framapad.org/p/open-research-2024-online](
 | 1 | 11:00 | 11:15 | Representing epistemological and disciplinary diversity in open research discourse | Pen-Yuan Hsing, Brianna Johns | Yo |
 | 2 | 11:15 | 11:30  | [MolerHealth: An Open Source Electronic Health Record System](#molerhealth-an-open-source-electronic-health-record-system) | Monsurat Onabajo | Yo |
 | 3 | 11:30 | 11:45  | [The Ersilia Model Hub, a FOSS platform for antimicrobial drug discovery](#the-ersilia-model-hub-a-foss-platform-for-antimicrobial-drug-discovery) | Emmanuel Onwuegbusi | Yo |
-| 4 | 12:00 | 13:00 | Break  |  |  |  |  |  |  |  |  |
-| 5 | 13:00 | 13:15 | [An integrated Knowledge Management System to support Open Science training](#an-integrated-knowledge-management-system-to-support-open-science-training) | Deborah Udoh | Mathieu |
-| 6 | 13:15 | 13:30 | [Sustainable Agricultural Practices and Climate Mitigation through Digitalization in Nigeria](#sustainable-agricultural-practices-and-climate-mitigation-through-digitalization-in-nigeria) | Gloria Ashiegbu | Mathieu |
-| 7 | 13:30 | 13:45 | Discussion  |  |  |  |  |  |  |  |
-| 8 | 13:45 | 14:15 | [Empowering Citizens: Unveiling the 'Querido Diário' Platform for Accessing Brazilian City Policies](#empowering-citizens-unveiling-the-querido-diário-platform-for-accessing-brazilian-city-policies) | José Guilherme Vanz | Mathieu |
-| 9 | 14:15 | 14:30 | [Fostering Diversity and Sustainability in the Open Source Scientific Software Community: The rOpenSci Champions Program](#fostering-diversity-and-sustainability-in-the-open-source-scientific-software-community-the-ropensci-champions-program) | Yanina Bellini Saibene | Sara |
-| 10 | 14:30 | 14:45  | Analizo, 15 years of a multi-language Research Software tool for source code analysis | Joenio M Costa | Sara |
-| 11 | 14:45 | 15:00 | Discussion |  |  |  |  |  |  |  | Sara |
-| 12 | 15:00 | 15:30 | [From the Inside Out: Organizational Impact on Open-Source Communities and Contributor Diversity](#from-the-inside-out-organizational-impact-on-open-source-communities-and-contributor-diversity) | Hana Frluckaj | Sara |
-| 13 | 15:30 | 16:00 | Panel | organisers discussion panel |  |  |  |  |  |
+| 4 | 12:00 | 12:30 | [Caring for Gephi - What care for a FLOSS project entails](#caring-for-gephi) | Mathieu Jacomy | Yo |
+| 5 | 12:30 | 13:00 | Break  |  |  |  |  |  |  |  |  |
+| 6 | 13:00 | 13:15 | [An integrated Knowledge Management System to support Open Science training](#an-integrated-knowledge-management-system-to-support-open-science-training) | Deborah Udoh | Mathieu |
+| 7 | 13:15 | 13:30 | [Sustainable Agricultural Practices and Climate Mitigation through Digitalization in Nigeria](#sustainable-agricultural-practices-and-climate-mitigation-through-digitalization-in-nigeria) | Gloria Ashiegbu | Mathieu |
+| 8 | 13:30 | 13:45 | Discussion  |  |  |  |  |  |  |  |
+| 9 | 13:45 | 14:15 | [Empowering Citizens: Unveiling the 'Querido Diário' Platform for Accessing Brazilian City Policies](#empowering-citizens-unveiling-the-querido-diário-platform-for-accessing-brazilian-city-policies) | José Guilherme Vanz | Mathieu |
+| 10 | 14:15 | 14:30 | [Fostering Diversity and Sustainability in the Open Source Scientific Software Community: The rOpenSci Champions Program](#fostering-diversity-and-sustainability-in-the-open-source-scientific-software-community-the-ropensci-champions-program) | Yanina Bellini Saibene | Sara |
+| 11 | 14:30 | 14:45  | Analizo, 15 years of a multi-language Research Software tool for source code analysis | Joenio M Costa | Sara |
+| 12 | 14:45 | 15:00 | Discussion |  |  |  |  |  |  |  | Sara |
+| 13 | 15:00 | 15:30 | [From the Inside Out: Organizational Impact on Open-Source Communities and Contributor Diversity](#from-the-inside-out-organizational-impact-on-open-source-communities-and-contributor-diversity) | Hana Frluckaj | Sara |
+| 14 | 15:30 | 16:00 | Panel | organisers discussion panel |  |  |  |  |  |
 
 # Abstract of Talks
 ## MolerHealth: An Open Source Electronic Health Record System
@@ -50,6 +51,26 @@ The Ersilia Model Hub serves as a free, open-source repository housing Artificia
 **Speaker:** Name: Emmanuel Onwuegbusi;
 **Biography:** Research software engineer and open source contributor (former Outreachy intern) to Ersilia. Availability: Any hour on Saturday, 10th Feb 2024.
 Submission notes: Lightning Talk (15 minutes). Extra review material: Ersilia’s CodeBase: https://github.com/ersilia-os/ersilia; Ersilia’s Documentation: https://ersilia.gitbook.io/ersilia-book; Organisation's Website: https://ersilia.io
+
+
+## Caring for Gephi
+**Abstract:**
+I've been caring for Gephi, an open source network software I co-created and keep contributing to.
+
+This talk draws on a book about maintenance called "Le Soin des Choses" (the care of things) by Jérôme Denis and David Pontille (in French, to be published in English in 2024). The book is not at all about software, and yet it describes situations that I can relate to, and so could many tool maintainers. This talk is for them.
+
+In short, the points I want to make are the following.
+* Maintenance is not like repair in that it does not make an event. This is key to why maintenance is mostly invisible. It does not work well with heroic narratives.
+* Maintaining software entails a certain kind of diplomacy, like curating code dependencies. Making compromises is inherent to maintaining. A well-maintained tool is not one that never fails, but one that allows itself to be maintained.
+* The software maintainer has to cultivate a proximity to both the users and the technologies. Attention to fragility is at the heart of the maintenance's mission of preventing failure.
+* Maintenance is not a control operation conducted on the basis of stable criteria. Maintaining sometimes deeply transforms, or obliges to transform. There is an ontological share to maintenance. Maintaining changes the maintained tool.
+
+I will provide examples from maintaining Gephi.
+
+**Talk licence:** CC-BY (https://creativecommons.org/licenses/by/4.0/).
+
+**Biography:** Mathieu Jacomy is Doctor of Techno-Anthropology and assistant professor at the Aalborg University Tantlab, and MASSHINE center. He was a research engineer for 10 years at the Sciences Po médialab in Paris, and is a co-founder of Gephi, a popular network visualization tool. He develops digital instruments involving data visualization and network analysis for the social science and humanities. His current research focuses on visual network analysis, digital controversy mapping, and computational social science. He toots at @jacomyma@mas.to and blogs at [reticular.hypotheses.org](https://reticular.hypotheses.org).
+
 
 
 ## An integrated Knowledge Management System to support Open Science training.

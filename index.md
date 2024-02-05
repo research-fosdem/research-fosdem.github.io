@@ -3,9 +3,9 @@ layout: default
 ---
 
 <!-- # CALL FOR PRESENTATIONS OPEN -->
-# 👉 Join us [Saturday 10 February online](https://research-fosdem.github.io/2024-online-schedule)!
+# 👉 Join us [ONLINE Saturday 10 Feb.](https://research-fosdem.github.io/2024-online-schedule)!
 
-**Check the [schedule of our online event](https://research-fosdem.github.io/2024-online-schedule)**.
+**Check the schedule of our [10 amazing online talks](https://research-fosdem.github.io/2024-online-schedule) on Saturday 10 February!**
 
 <!--
 ### Call for presentations
