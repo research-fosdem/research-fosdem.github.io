@@ -5,7 +5,11 @@ layout: default
 <!-- # CALL FOR PRESENTATIONS OPEN -->
 # 👉 Join us [online Saturday 10 Feb](https://research-fosdem.github.io/2024-online-schedule)!
 
-**Check the schedule of our [10 amazing online talks](https://research-fosdem.github.io/2024-online-schedule) on Saturday 10 February!**
+**Check our schedule:**
+
+**[Ten amazing new ONLINE talks](https://research-fosdem.github.io/2024-online-schedule) on Saturday 10 February.**
+
+We call it ORDEM: Open Research, Dev, Ethics & Mobilization. It allows us to reach people all over the world who cannot necessarily come to Bruxelles. 🌎
 
 <!--
 ### Call for presentations
