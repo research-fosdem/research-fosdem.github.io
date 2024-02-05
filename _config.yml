@@ -1,5 +1,6 @@
 title: Open Research Devroom
-logo: ./img/open_research_devroom_fosdem.png
+# logo: ./img/open_research_devroom_fosdem.png
+logo: ./img/ordem.png
 description: "A place to discuss the creation and use of Free Libre Open Source Software in research context: science, investigative journalism, activism, OSINT..."
 show_downloads: false
 google_analytics:

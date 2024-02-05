@@ -2,10 +2,13 @@
 layout: default
 ---
 
-<!-- [**Attend online and chat**](https://chat.fosdem.org/#/room/#research:fosdem.org) or with [just the video](https://live.fosdem.org/watch/dresearch). -->
-# CALL FOR PRESENTATIONS OPEN
+<!-- # CALL FOR PRESENTATIONS OPEN -->
+# 👉 Join us [Saturday 10 February online](https://research-fosdem.github.io/2024-online-schedule)!
 
-<!-- ### 👉 Join us Saturday 3 February 2024, Université Libre de Bruxelles and Saturday 10 online! -->
+**Check the [schedule of our online event](https://research-fosdem.github.io/2024-online-schedule)**.
+
+<!--
+### Call for presentations
 
 We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2024 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
 We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, OSINT, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
@@ -91,14 +94,7 @@ Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/we
 Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
 
 <span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)**</span>
-
-<!--
-# [2022 Schedule](https://link.infini.fr/open-research-2022-schedule)
-
-We have selected 19 great talks of 15 to 20 minutes, with Q&A panels, for a full session from 10:00 to 18:00. [Check our lineup!](https://link.infini.fr/open-research-2022-schedule)
-
-👉 [Follow us on Twitter](https://twitter.com/FosdemResearch) for more coverage.
--->
+!-->
 
 # About the Open Research devroom
 
