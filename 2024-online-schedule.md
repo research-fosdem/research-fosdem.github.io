@@ -28,7 +28,7 @@ Interactive Q&A doc: [https://annuel2.framapad.org/p/open-research-2024-online](
 | 10 | 14:15 | 14:30 | [Fostering Diversity and Sustainability in the Open Source Scientific Software Community: The rOpenSci Champions Program](#fostering-diversity-and-sustainability-in-the-open-source-scientific-software-community-the-ropensci-champions-program) | Yanina Bellini Saibene | Sara |
 | 11 | 14:30 | 14:45  | Analizo, 15 years of a multi-language Research Software tool for source code analysis | Joenio M Costa | Sara |
 | 12 | 14:45 | 15:00 | Discussion |  |  |  |  |  |  |  | Sara |
-| 13 | 15:00 | 15:30 | [From the Inside Out: Organizational Impact on Open-Source Communities and Contributor Diversity](#from-the-inside-out-organizational-impact-on-open-source-communities-and-contributor-diversity) | Hana Frluckaj | Sara |
+| 13 | 15:00 | 15:30 | [From the Inside Out: Organizational Impact on Open-Source Communities and Women's Representation](#from-the-inside-out-organizational-impact-on-open-source-communities-and-women-s-representation) | Hana Frluckaj | Sara |
 | 14 | 15:30 | 16:00 | Panel | organisers discussion panel |  |  |  |  |  |
 
 # Abstract of Talks
@@ -115,7 +115,7 @@ Research software plays a crucial role in advancing knowledge and innovation, an
 **Biography:** Yani is an Argentinean researcher, undergraduate and graduate professor at several universities in Argentina and Uruguay.  She has developed open courses and tutorials to teach technical skills in data science, and leads and participates in the community translation of educational and technical material into Spanish.  She is also the Community Manager of rOpenSci and one of the co-founders of LatinR.  She is a trainer, instructor and member of the Board of Directors of The Carpentries and a certified Posit instructor. She is a member of the R Consortium Infrastructure Steering Committee and the Sociedad Argentina de Informática (SADIO). She is R-Ladies Global Project Lead and part of their Board of Directors.
 
 
-## From the Inside Out: Organizational Impact on Open-Source Communities and Contributor Diversity.
+## From the Inside Out: Organizational Impact on Open-Source Communities and Women's Representation
 **Abstract:**
 The involvement of companies and public institutions in open-source software (OSS) has become widespread. While studies have explored the business models of for-profit organizations and their impact on software quality, little is known about their influence on OSS communities, especially in terms of diversity and inclusion. This knowledge gap is significant, considering that many organizations have the resources to enhance diversity and inclusion internally, but whether these efforts extend to OSS remains uncertain. To address this gap, we conducted interviews with maintainers of community-owned and organization-owned OSS projects, revealing tensions between organizations and their projects and identifying the impact of internal policies on OSS communities. Our findings offer insights into how organizations can contribute to improving diversity and inclusion in their open-source projects and, consequently, in the wider open-source community.
 
