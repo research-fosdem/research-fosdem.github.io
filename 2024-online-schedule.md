@@ -28,7 +28,7 @@ Interactive Q&A doc: [https://annuel2.framapad.org/p/open-research-2024-online](
 | 10 | 14:15 | 14:30 | [Fostering Diversity and Sustainability in the Open Source Scientific Software Community: The rOpenSci Champions Program](#fostering-diversity-and-sustainability-in-the-open-source-scientific-software-community-the-ropensci-champions-program) | Yanina Bellini Saibene | Sara |
 | 11 | 14:30 | 14:45  | Analizo, 15 years of a multi-language Research Software tool for source code analysis | Joenio M Costa | Sara |
 | 12 | 14:45 | 15:00 | Discussion |  |  |  |  |  |  |  | Sara |
-| 13 | 15:00 | 15:30 | [From the Inside Out: Organizational Impact on Open-Source Communities and Women's Representation](#from-the-inside-out-organizational-impact-on-open-source-communities-and-women-s-representation) | Hana Frluckaj | Sara |
+| 13 | 15:00 | 15:30 | [From the Inside Out: Organizational Impact on Open-Source Communities and Women's Representation](#from-the-inside-out-organizational-impact-on-open-source-communities-and-womens-representation) | Hana Frluckaj | Sara |
 | 14 | 15:30 | 16:00 | Panel | organisers discussion panel |  |  |  |  |  |
 
 # Abstract of Talks
