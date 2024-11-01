@@ -2,19 +2,22 @@
 layout: default
 ---
 
-<!-- # CALL FOR PRESENTATIONS OPEN -->
-# 👉 Join us [online Saturday 10 Feb](https://research-fosdem.github.io/2024-online-schedule)!
+<!-- ORDEM (2024) -->
+<!-- # 👉 Join us [online Saturday 10 Feb](https://research-fosdem.github.io/2024-online-schedule)!
 
 **Check our [10 amazing new ONLINE talks](https://research-fosdem.github.io/2024-online-schedule) on Saturday 10 February.**
 
 We call it ORDEM: Open Research, Dev, Ethics & Mobilization.
 
 🌎 It allows us to reach people all over the world who cannot necessarily come to Bruxelles.
+ -->
 
-<!--
+
+<!-- DEVROOM: CALL (2024) -->
+
 ### Call for presentations
 
-We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2024 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
+We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2025 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
 We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, OSINT, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
 
 We seek talks about:
@@ -27,13 +30,15 @@ We seek talks about:
 
 We welcome talks from various research and investigative contexts: research labs, libraries, newsrooms, museums, hackerspaces, maker labs, community and activist groups. We welcome your experience on various topics: open science, open data, commons, research on research, sustainability... Any subjects related to open source technologies in research contexts are welcome even if not in this list.
 
-You will find a summary of what happened in our devroom the first two years in this blog post: [reticular.hypotheses.org/1825](https://reticular.hypotheses.org/1825)
+<!-- You will find a summary of what happened in our devroom the first two years in this blog post: [reticular.hypotheses.org/1825](https://reticular.hypotheses.org/1825) -->
+
 
 ## Event and talks format
 
 Our official devroom consists of 6 hours of talks held physically in Bruxelles. In addition, we will hold an _unofficial_ session consisting of about 4h of online talks.
 
 _Note: The online session will not be appearing on the FOSDEM website; that's why it's unofficial._
+
 
 #### 1. Talks
 
@@ -42,18 +47,20 @@ _Note: The online session will not be appearing on the FOSDEM website; that's wh
 
 Talks have to be _in English_ and will be recorded and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/). The unofficial, online talks will also be recorded and published, but somewhere else (more on this soon).
 
+
 #### 2. Event format
 
 The FOSDEM will be entirely **physical** this year (in Bruxelles), and our online session will be held unofficially one week later. All the talks can be seen online via a stream.
+
 
 # HOW TO SUBMIT
 
 #### 1. Important dates:
 
-- **Proposal Deadline: <span style="color: #900;">10 Dec</span> 2023 23:59 CET**
-- **Accepted talk announced: 2023-12-15**
-- **FOSDEM Conference: Saturday 3rd Feb 2024** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
-- **unofficial online session: Saturday 10th Feb 2024** hours to be precised soon.
+- **Proposal Deadline: <span style="color: #900;">1 Dec</span> 2024 AOE**
+- **Accepted talk announced: TBA**
+- **FOSDEM Conference: 1 Feb 2024** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
+- **unofficial online session: 15 Feb 2024**
 - Submit early if you can!
 
 #### 2. Submissions
@@ -76,10 +83,12 @@ Please make sure to add links to relevant online materials (such as website, pub
 
 To get inspired on possible abstracts style, length and format, you can read previous edition talks on FOSDEM archives:
 
+- [Open Research @ FOSDEM 2024](https://archive.fosdem.org/2024/schedule/track/open-research/)
 - [Open Research @ FOSDEM 2023](https://archive.fosdem.org/2023/schedule/track/open_research_tools_and_technology/)
 - [Open Research @ FOSDEM 2022](https://archive.fosdem.org/2022/schedule/track/open_research_tools_and_technologies/)
 - [Open Research @ FOSDEM 2021](https://archive.fosdem.org/2021/schedule/track/open_research_tools_and_technologies/)
 - [Open Research @ FOSDEM 2020](https://archive.fosdem.org/2020/schedule/track/open_research_tools_and_technologies/)
+
 
 #### 3. How to submit for the PHYSICAL talks (Pretalx tips)
 
@@ -87,18 +96,19 @@ For the official, physical session, the submission process is managed in the Pre
 You must create an account in the system to submit (Pretalx replaces the previous pentabarf system you need to create a new user account).
 Once logged in, select “submit a CFP” and select the "Open research" track.
 
-<span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [https://pretalx.fosdem.org/fosdem-2024/cfp](https://pretalx.fosdem.org/fosdem-2024/cfp)**</span>
+<span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [https://pretalx.fosdem.org/fosdem-2025/cfp](https://pretalx.fosdem.org/fosdem-2025/cfp)**</span>
 
 If you have any issues with Pretalx, do not despair: contact us at [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org).
 
 Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
+
 
 #### 4. How to submit for the ONLINE session
 
 Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
 
 <span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)**</span>
-!-->
+!
 
 # About the Open Research devroom
 
@@ -115,11 +125,13 @@ The Open Research devroom aims to:
 
 For more content information, you can also read about the [state of the conversation](https://reticular.hypotheses.org/1825) in the devroom in 2020-2021.
 
+
 # What is the FOSDEM?
 
 The FOSDEM (Free and Open source Software Developers' European Meeting) is a non-commercial, volunteer-organized European event centered on free and open-source software development. It is aimed at developers and anyone interested in the free and open-source software movement. It aims to enable developers to meet and to promote the awareness and use of free and open-source software.  
 [https://fosdem.org/](https://fosdem.org/)  
 [https://en.wikipedia.org/wiki/FOSDEM](https://en.wikipedia.org/wiki/FOSDEM)
+
 
 # Organizers
 
