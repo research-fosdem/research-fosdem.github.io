@@ -15,6 +15,9 @@ We call it ORDEM: Open Research, Dev, Ethics & Mobilization.
 
 <!-- DEVROOM: CALL (2024) -->
 
+# CALL FOR PARTICIPATION OPEN!
+**👉 Deadline 1st December 2024**
+
 ### Call for presentations
 
 We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2025 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
