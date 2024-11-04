@@ -45,15 +45,15 @@ _Note: The online session will not be appearing on the FOSDEM website; that's wh
 
 #### 1. Talks
 
-- Lecture talks (normal talks) will last _25 minutes max_, followed by 5 minutes for questions and changing speaker. A 20/10 split also works.
-- Lightning talks will last _15 minutes max_ or a bit less if you want room for questions.
+- *Lecture* talks will last **20 minutes** followed by **10 minutes** for questions (and changing speaker)
+- *Lightning* talks will last **10 minutes** followed by **5 minutes** for questions (and changing speaker)
 
 Talks have to be _in English_ and will be recorded and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/). The unofficial, online talks will also be recorded and published, but somewhere else (more on this soon).
 
 
 #### 2. Event format
 
-The FOSDEM will be entirely **physical** this year (in Bruxelles), and our online session will be held unofficially one week later. All the talks can be seen online via a stream.
+The FOSDEM will be entirely **physical** this year (in Bruxelles), and our online session will be held unofficially a few weeks later. All the talks can be seen online via a stream.
 
 
 # HOW TO SUBMIT
@@ -61,9 +61,9 @@ The FOSDEM will be entirely **physical** this year (in Bruxelles), and our onlin
 #### 1. Important dates:
 
 - **Proposal Deadline: <span style="color: #900;">1 Dec</span> 2024 AOE**
-- **Accepted talk announced: TBA**
-- **FOSDEM Conference: 1 Feb 2024** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
-- **unofficial online session: 15 Feb 2024**
+- **Accepted talk announced: 2024-12-15**
+- **FOSDEM Conference:  Saturday 1st Feb 2025** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
+- **Unofficial online session: TBA**
 - Submit early if you can!
 
 #### 2. Submissions
@@ -136,7 +136,8 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 [https://en.wikipedia.org/wiki/FOSDEM](https://en.wikipedia.org/wiki/FOSDEM)
 
 
-# Organizers
+# Committee
+Your proposal will be assessed by our committee:
 
 - Anne Lee Steele
 - Célya Gruson-Daniel [Inno3](https://inno3.fr/) and [COSTECH Lab](https://costech.utc.fr/Le-COSTECH) (Université de Technologie de Compiègne)
