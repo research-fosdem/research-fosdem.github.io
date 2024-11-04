@@ -147,7 +147,7 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 - Paul Girard, Human Data Interfaces engineer at [OuestWare](https://ouestware.com)
 - Sara Petti, Network Lead at [Open Knowledge Foundation](https://okfn.org/)
 - Victor Daussy-Renaudin
-- [Violeta Menéndez González](https://violetamenendez.github.io/), PhD student in Computer Vision at University of Surrey and BBC R&D.
+- [Violeta Menéndez González](https://violetamenendez.github.io/), Senior Research Software Engineer at [CoSTAR National Lab](https://www.ukri.org/councils/ahrc/remit-programmes-and-priorities/convergent-screen-technologies-and-performance-in-realtime-costar/costar-national-lab/).
 - Yo Yehudi
 
 
