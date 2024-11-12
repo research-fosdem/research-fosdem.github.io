@@ -139,7 +139,7 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 # Committee
 Your proposal will be assessed by our committee:
 
-- Anne Lee Steele
+- [Anne Lee Steele](https://aleesteele.com)
 - Célya Gruson-Daniel [Inno3](https://inno3.fr/) and [COSTECH Lab](https://costech.utc.fr/Le-COSTECH) (Université de Technologie de Compiègne)
 - Diego Antolinos-Basso, research engineer at the [médialab](https://medialab.sciencespo.fr/) and the [CEVIPOF](https://www.sciencespo.fr/cevipof/), Sciences Po Paris
 - [Jim Madge](https://blog.jmadge.com)
