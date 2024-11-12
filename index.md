@@ -142,6 +142,7 @@ Your proposal will be assessed by our committee:
 - Anne Lee Steele
 - Célya Gruson-Daniel [Inno3](https://inno3.fr/) and [COSTECH Lab](https://costech.utc.fr/Le-COSTECH) (Université de Technologie de Compiègne)
 - Diego Antolinos-Basso, research engineer at the [médialab](https://medialab.sciencespo.fr/) and the [CEVIPOF](https://www.sciencespo.fr/cevipof/), Sciences Po Paris
+- [Jim Madge](https://blog.jmadge.com)
 - Luisa Orozco, Research Software Engineer at the [Netherlands eScience center](https://www.esciencecenter.nl/).
 - Mathieu Jacomy, assistant professor at the [Tantlab](https://www.en.culture.aau.dk/research/research-groups/tantlab) in Copenhagen and designer of [Gephi](https://gephi.org/).
 - Maya Anderson-González
