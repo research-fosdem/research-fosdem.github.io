@@ -111,7 +111,7 @@ Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/we
 Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
 
 <span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)**</span>
-!
+! (NOTE: WE'VE GOT AN ISSUE WITH THE EMAIL AT THE MOMENT, WE'RE WORKING ON IT)
 
 # About the Open Research devroom
 
