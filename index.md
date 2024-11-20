@@ -153,7 +153,7 @@ Your proposal will be assessed by our committee:
 - Yo Yehudi
 
 
-Contact us: [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)
+Contact us: [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org)
 
 Want to view the **schedule for the online talks**? Use this [link](/2024-online-schedule.html)! 
 
