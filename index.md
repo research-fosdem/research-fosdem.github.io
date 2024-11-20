@@ -101,7 +101,7 @@ Once logged in, select “submit a CFP” and select the "Open research" track.
 
 <span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [https://pretalx.fosdem.org/fosdem-2025/cfp](https://pretalx.fosdem.org/fosdem-2025/cfp)**</span>
 
-If you have any issues with Pretalx, do not despair: contact us at [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org) (NOTE: WE'VE GOT AN ISSUE WITH THE EMAIL AT THE MOMENT, WE'RE WORKING ON IT).
+If you have any issues with Pretalx, do not despair: contact us at [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org).
 
 Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
 
@@ -110,8 +110,8 @@ Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/we
 
 Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
 
-<span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)**</span>
-! (NOTE: WE'VE GOT AN ISSUE WITH THE EMAIL AT THE MOMENT, WE'RE WORKING ON IT)
+<span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org)**</span>
+!
 
 # About the Open Research devroom
 
