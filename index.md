@@ -63,7 +63,7 @@ The FOSDEM will be entirely **physical** this year (in Bruxelles), and our onlin
 - **Proposal Deadline: <span style="color: #900;">1 Dec</span> 2024 AOE**
 - **Accepted talk announced: 2024-12-15**
 - **FOSDEM Conference:  Saturday 1st Feb 2025** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
-- **Unofficial online session: TBA**
+- **Unofficial online session: Saturday 15th Feb 2025**
 - Submit early if you can!
 
 #### 2. Submissions
@@ -111,7 +111,10 @@ Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/we
 Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
 
 <span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org)**</span>
-!
+
+
+=======
+
 
 # About the Open Research devroom
 
