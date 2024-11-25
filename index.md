@@ -106,7 +106,7 @@ If you have any issues with Pretalx, do not despair: contact us at [research-dev
 Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
 
 
-#### 4. How to submit for the ONLINE session
+#### 4. How to submit for the ONLINE session (15 February)
 
 Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
 
