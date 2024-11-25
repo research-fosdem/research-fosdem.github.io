@@ -113,6 +113,9 @@ Send an email to us with your submission. Just write in the email the necessary 
 <span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org)**</span>
 
 
+=======
+
+
 # About the Open Research devroom
 
 The Open Research devroom addresses [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html) developers in a broad community concerned with research production and curation: scientists, engineers, journalists, archivists, curators, activists.
@@ -153,7 +156,7 @@ Your proposal will be assessed by our committee:
 - Yo Yehudi
 
 
-Contact us: [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)
+Contact us: [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org)
 
 Want to view the **schedule for the online talks**? Use this [link](/2024-online-schedule.html)! 
 
