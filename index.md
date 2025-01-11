@@ -13,25 +13,14 @@ We call it ORDEM: Open Research, Dev, Ethics & Mobilization.
 🌎 It allows us to reach people all over the world who cannot necessarily come to Bruxelles.
  -->
 
-<nav>
-  <a href="#about">About</a>
-  <a href="#call-for-presentations">Call for Presentations</a>
-  <a href="#schedule">Schedule</a>
-  <a href="#code-of-conduct">Code of Conduct</a>
-</nav>
 
-<section id="code-of-conduct">
-  <h2>Code of Conduct</h2>
-  <p>We are committed to a welcoming and inclusive environment. Please read our <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>.</p>
-</section>
 
 <!-- DEVROOM: CALL (2024) -->
-
 <section id="call-for-presentations" class="section" markdown="1">
   <div class="container">
-    <h2 class="title">Call for Presentations</h2>
+    <h2 class="title">Call for Participation</h2>
 <div markdown="1">
-## CALL FOR PARTICIPATION OPEN!
+
 **👉 Deadline 1st December 2024**
 
 ### Call for presentations
@@ -58,9 +47,6 @@ We welcome talks from various research and investigative contexts: research labs
   <div class="container">
     <h2 class="title">Event and talks format</h2>
 <div markdown="1">
-
-## Event and talks format
-
 Our official devroom consists of 6 hours of talks held physically in Bruxelles. In addition, we will hold an _unofficial_ session consisting of about 4h of online talks.
 
 _Note: The online session will not be appearing on the FOSDEM website; that's why it's unofficial._
@@ -213,6 +199,11 @@ Contact us: [research-devroom-manager@fosdem.org](mailto:research-devroom-manage
 Want to view the **schedule for the online talks**? Use this [link](/2024-online-schedule.html)!
 </div>
 </div>
+</section>
+
+<section id="code-of-conduct">
+  <h2>Code of Conduct</h2>
+  <p>We are committed to a welcoming and inclusive environment. Please read our <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>.</p>
 </section>
 
 <!-- `research-devroom-manager [at] fosdem.org` -->
