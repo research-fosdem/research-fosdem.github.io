@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Open Research Devroom
 ---
 
 <!-- ORDEM (2024) -->
@@ -12,10 +13,25 @@ We call it ORDEM: Open Research, Dev, Ethics & Mobilization.
 🌎 It allows us to reach people all over the world who cannot necessarily come to Bruxelles.
  -->
 
+<nav>
+  <a href="#about">About</a>
+  <a href="#call-for-presentations">Call for Presentations</a>
+  <a href="#schedule">Schedule</a>
+  <a href="#code-of-conduct">Code of Conduct</a>
+</nav>
+
+<section id="code-of-conduct">
+  <h2>Code of Conduct</h2>
+  <p>We are committed to a welcoming and inclusive environment. Please read our <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>.</p>
+</section>
 
 <!-- DEVROOM: CALL (2024) -->
 
-# CALL FOR PARTICIPATION OPEN!
+<section id="call-for-presentations" class="section" markdown="1">
+  <div class="container">
+    <h2 class="title">Call for Presentations</h2>
+<div markdown="1">
+## CALL FOR PARTICIPATION OPEN!
 **👉 Deadline 1st December 2024**
 
 ### Call for presentations
@@ -34,7 +50,14 @@ We seek talks about:
 We welcome talks from various research and investigative contexts: research labs, libraries, newsrooms, museums, hackerspaces, maker labs, community and activist groups. We welcome your experience on various topics: open science, open data, commons, research on research, sustainability... Any subjects related to open source technologies in research contexts are welcome even if not in this list.
 
 <!-- You will find a summary of what happened in our devroom the first two years in this blog post: [reticular.hypotheses.org/1825](https://reticular.hypotheses.org/1825) -->
+</div>
+  </div>
+</section>
 
+<section id="talks-format" class="section" markdown="1">
+  <div class="container">
+    <h2 class="title">Event and talks format</h2>
+<div markdown="1">
 
 ## Event and talks format
 
@@ -55,6 +78,14 @@ Talks have to be _in English_ and will be recorded and later on published under 
 
 The FOSDEM will be entirely **physical** this year (in Bruxelles), and our online session will be held unofficially a few weeks later. All the talks can be seen online via a stream.
 
+</div>
+  </div>
+</section>
+
+<section id="submission" class="section" markdown="1">
+  <div class="container">
+    <h2 class="title">Submission</h2>
+<div markdown="1">
 
 # HOW TO SUBMIT
 
@@ -112,9 +143,15 @@ Send an email to us with your submission. Just write in the email the necessary 
 
 <span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org)**</span>
 
+</div>
+  </div>
+</section>
 
-=======
 
+<section id="about" class="section" markdown="1">
+  <div class="container">
+    <h2 class="title">About the Devroom</h2>
+<div markdown="1">
 
 # About the Open Research devroom
 
@@ -137,7 +174,14 @@ For more content information, you can also read about the [state of the conversa
 The FOSDEM (Free and Open source Software Developers' European Meeting) is a non-commercial, volunteer-organized European event centered on free and open-source software development. It is aimed at developers and anyone interested in the free and open-source software movement. It aims to enable developers to meet and to promote the awareness and use of free and open-source software.  
 [https://fosdem.org/](https://fosdem.org/)  
 [https://en.wikipedia.org/wiki/FOSDEM](https://en.wikipedia.org/wiki/FOSDEM)
+</div>
+  </div>
+</section>
 
+<section id="talks-format" class="section" markdown="1">
+  <div class="container">
+    <h2 class="title">The ORDEM Committee</h2>
+<div markdown="1">
 
 # Committee
 Your proposal will be assessed by our committee:
@@ -158,7 +202,18 @@ Your proposal will be assessed by our committee:
 
 Contact us: [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org)
 
-Want to view the **schedule for the online talks**? Use this [link](/2024-online-schedule.html)! 
+</div>
+  </div>
+</section>
+
+<section id="schedule" class="section" markdown="1">
+  <div class="container">
+    <h2 class="title">Schedule</h2>
+<div markdown="1">
+Want to view the **schedule for the online talks**? Use this [link](/2024-online-schedule.html)!
+</div>
+</div>
+</section>
 
 <!-- `research-devroom-manager [at] fosdem.org` -->
 
