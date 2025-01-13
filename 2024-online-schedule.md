@@ -1,3 +1,10 @@
+---
+layout: default
+title: 2024 ORDEM Schedule
+---
+
+<section>
+<div markdown="1">
 ## 2024 Open Research Online Devroom talks
 
 Date and time: Saturday the 10th of February at 10:00 UTC - 15:30 UTC. [[Check when this is in YOUR timezone](https://arewemeetingyet.com/London/2024-02-10/10:00)]
@@ -12,6 +19,11 @@ Passcode: 138837
 
 Interactive Q&A doc: [https://annuel2.framapad.org/p/open-research-2024-online](https://annuel2.framapad.org/p/open-research-2024-online)
 
+</div>
+</section>
+
+<section id="schedule">
+<div markdown="1">
 ## Schedule: 
 
 | S/No.   | TIME (CET)   |  End  | Title | Author | Chair |
@@ -31,6 +43,11 @@ Interactive Q&A doc: [https://annuel2.framapad.org/p/open-research-2024-online](
 | 13 | 15:00 | 15:30 | [From the Inside Out: Organizational Impact on Open-Source Communities and Women's Representation](#from-the-inside-out-organizational-impact-on-open-source-communities-and-womens-representation) | Hana Frluckaj | Sara |
 | 14 | 15:30 | 16:00 | Panel | organisers discussion panel |  |  |  |  |  |
 
+</div>
+</section>
+
+<section>
+<div markdown="1">
 # Abstract of Talks
 ## MolerHealth: An Open Source Electronic Health Record System
 **Abstract:**
@@ -124,3 +141,6 @@ This talk will convey the findings of an upcoming paper on the influence of orga
 
 **Talk License:** MIT license.
 **Speaker Info:** Hana Frluckaj, PhD student at UT-Austin iSchool, flexible availability.
+
+</div>
+</section>
