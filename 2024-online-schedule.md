@@ -2,26 +2,6 @@
 layout: default
 title: 2024 ORDEM Schedule
 ---
-
-<section>
-<div markdown="1">
-## 2024 Open Research Online Devroom talks
-
-Date and time: Saturday the 10th of February at 10:00 UTC - 15:30 UTC. [[Check when this is in YOUR timezone](https://arewemeetingyet.com/London/2024-02-10/10:00)]
-
-The call will be hosted on Zoom, allowing us to provide realtime captions and translation. 
-
-Join Zoom Meeting
-[https://us02web.zoom.us/j/84519906281?pwd=UGpuMFBHeis3RTE3c0dnc2c5dUZTZz09](https://us02web.zoom.us/j/84519906281?pwd=UGpuMFBHeis3RTE3c0dnc2c5dUZTZz09)
-
-Meeting ID: 845 1990 6281  
-Passcode: 138837  
-
-Interactive Q&A doc: [https://annuel2.framapad.org/p/open-research-2024-online](https://annuel2.framapad.org/p/open-research-2024-online)
-
-</div>
-</section>
-
 <section id="schedule">
 <div markdown="1">
 ## Schedule: 
