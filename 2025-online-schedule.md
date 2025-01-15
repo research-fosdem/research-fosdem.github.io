@@ -22,26 +22,17 @@ Interactive Q&A doc:
 
 <section id="schedule">
 <div markdown="1">
-<!--
-## Schedule: 
 
 | S/No.   | TIME (CET)   |  End  | Title | Author | Chair |
 |:--------|:-------------|:------|:------------------------------------------------------------------------------------------------------------------------|:------------------------------|:--------|
-| 1 | 11:00 | 11:15 | Representing epistemological and disciplinary diversity in open research discourse | Pen-Yuan Hsing, Brianna Johns | Yo |
-| 2 | 11:15 | 11:30  | [MolerHealth: An Open Source Electronic Health Record System](#molerhealth-an-open-source-electronic-health-record-system) | Monsurat Onabajo | Yo |
-| 3 | 11:30 | 11:45  | [The Ersilia Model Hub, a FOSS platform for antimicrobial drug discovery](#the-ersilia-model-hub-a-foss-platform-for-antimicrobial-drug-discovery) | Emmanuel Onwuegbusi | Yo |
-| 4 | 12:00 | 12:30 | [Caring for Gephi - What care for a FLOSS project entails](#caring-for-gephi) | Mathieu Jacomy | Yo |
-| 5 | 12:30 | 13:00 | Break  |  |  |  |  |  |  |  |  |
-| 6 | 13:00 | 13:15 | [An integrated Knowledge Management System to support Open Science training](#an-integrated-knowledge-management-system-to-support-open-science-training) | Deborah Udoh | Mathieu |
-| 7 | 13:15 | 13:30 | [Sustainable Agricultural Practices and Climate Mitigation through Digitalization in Nigeria](#sustainable-agricultural-practices-and-climate-mitigation-through-digitalization-in-nigeria) | Gloria Ashiegbu | Mathieu |
-| 8 | 13:30 | 13:45 | Discussion  |  |  |  |  |  |  |  |
-| 9 | 13:45 | 14:15 | [Empowering Citizens: Unveiling the 'Querido Diário' Platform for Accessing Brazilian City Policies](#empowering-citizens-unveiling-the-querido-diário-platform-for-accessing-brazilian-city-policies) | José Guilherme Vanz | Mathieu |
-| 10 | 14:15 | 14:30 | [Fostering Diversity and Sustainability in the Open Source Scientific Software Community: The rOpenSci Champions Program](#fostering-diversity-and-sustainability-in-the-open-source-scientific-software-community-the-ropensci-champions-program) | Yanina Bellini Saibene | Sara |
-| 11 | 14:30 | 14:45  | Analizo, 15 years of a multi-language Research Software tool for source code analysis | Joenio M Costa | Sara |
-| 12 | 14:45 | 15:00 | Discussion |  |  |  |  |  |  |  | Sara |
-| 13 | 15:00 | 15:30 | [From the Inside Out: Organizational Impact on Open-Source Communities and Women's Representation](#from-the-inside-out-organizational-impact-on-open-source-communities-and-womens-representation) | Hana Frluckaj | Sara |
-| 14 | 15:30 | 16:00 | Panel | organisers discussion panel |  |  |  |  |  |
-
--->
+| 1 | 11:30 | x | Is your Community implementing the Diversity Equity and Inclusion (DEI) equivalent of Python 2.6? | Rowland Mosbergen | x |
+| 2 | 12:00 | x  | Will AI coding assistants kill FLOSS in research software engineering? | Giuditta Parolini | x |
+| 3 | 12:30 | x  | A Universe to be Decided | Mike Smith | x |
+| 4 | 13:00 | x | Creating an Open Knowledge Graph for Climate | Shweata Hegde | x |
+| 5 | 13:30 | x | Cartography of the Missing: Mapping Forced Disappearances in Jalisco | Angel Abundis | x |
+| 6 | 14:00 | x | Yanayi Project | Claire Depardieu | x |
+| 7 | 14:30 | x | Research on (re)search: FLOSS as an open knowledge infrastructure | Renée Ridgway | x |
+| 8 | 15:00 | x | TMI-WEB: An Open Approach to Computational Social Science | Coraline Ada Ehmke | x |  |  |  |  |  |
+| 9 | 15:30 | x | From open code to open contributions: open source in academia | Arielle Bennett | x |
 </div>
 </section>
