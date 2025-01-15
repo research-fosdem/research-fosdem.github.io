@@ -40,7 +40,9 @@ Interactive Q&A doc:
 
 <section>
 <div markdown="1">
-# Abstract of Talks
+
+ # Abstract of Talks
+
 ## Is your Community implementing the Diversity Equity and Inclusion (DEI) equivalent of Python 2.6?	
 **Abstract:**
 Many open source research communities want to be more diverse, equitable and inclusive. 
@@ -51,9 +53,7 @@ I show how you can make a difference as an individual, organisation, or a commun
 
 I also show examples of how I have embedded these practices into recruitment, internship programs, leadership courses, conferences, and fellowships - and the impact that they have had.
 
-
-
-**Speaker Name:** Rowland Mosbergen.
+**Speaker:** Rowland Mosbergen.
 **Talk licence:** CC-BY4.0
 
 ## Will AI coding assistants kill FLOSS in research software engineering?
@@ -70,7 +70,7 @@ The talk takes inspiration from a blog post on a popular AI coding assistant, Gi
  
 IPR laws and regulations for software have been crucial in shaping the world of free/libre and open source software as we know it today. FLOSS licensing models have been supporting the development of tools that can be used by everyone royalty-free, and fit in with the open science commitment embraced by many funders of academic research. The usefulness of these tools is confirmed every day by growing user communities, including RSE communities around the world. RSE should be fully aware of the risks posed to FLOSS by the use of AI coding assistants and should carry out a risk-benefit analysis before they decide to adopt these tools.
 
-**Speaker Name:** Giuditta Parolini
+**Speaker:** Giuditta Parolini
 **Talk licence:** CC-BY
 
 ## A Universe to be Decided
@@ -81,8 +81,7 @@ In 2022, a team at Google DeepMind discovered that--optimally--the size of these
 
 At UniverseTBD we are coming together as a community to develop and provide such high quality multi-modal open public datasets to advance the cutting edge of both deep learning and astronomy. We want to use these data to train open astronomical foundation models that can be used both to advance science, and also to inspire the next generation of astronomers. We will talk about how we are creating such datasets and models and, more importantly, show how you can get involved.
 
-**Speaker Name:** Mike Smith
-**Talk licence:**
+**Speaker:** Mike Smith
 
 ## Creating an Open Knowledge Graph for Climate
 **Abstract:**
@@ -94,15 +93,13 @@ semanticClimate is a global hybrid community where interns from colleges (mainly
 
 semanticClimate interns come from high-school up and need have no knowledge of software. They learn-by-doing, and in some weeks have 2-hour online sessions daily - these are recorded and transcribed to text for all to see. Interns are encouraged to give public talks (e.g. OKFN, Wikipedia, CODATA) and to make 5 min videos. All software is modular, Git-branched, versioned and unit-tested. Where possible we publish it in J. Open Source Software.
 
-**Speaker Name:** Shweata Hegde
-**Talk licence:**
+**Speaker:** Shweata Hegde
 
 ## Cartography of the Missing: Mapping Forced Disappearances in Jalisco
 **Abstract:**
 This project maps forced disappearances in Jalisco, Mexico, at the neighborhood scale, identifying clusters of incidents within radii as small as 500–700 meters. Using natural language processing (NER) to extract addresses from disappearance records, combined with clustering algorithms and GIS tools, the project visualizes spatial patterns and motivations behind disappearances. The interactive map categorizes data by variables like gender, status, and timeframe, revealing high-risk zones and recurring criminal patterns. This session will detail the mapping process, discuss the map's insights, and invite feedback to improve data-driven tools for combating this humanitarian crisis.
 
-**Speaker Name:** Angel Abundis
-**Talk licence:**
+**Speaker:** Angel Abundis
 
 ## Yanayi Project
 **Abstract:**
@@ -125,7 +122,38 @@ strategies, climate change.
 
 **Speaker:** Claire Depardieu
 
+## Research on (re)search: FLOSS as an open knowledge infrastructure
+**Abstract:**
+This talk delves into the values and ethics of Free Software, traversing its negotiations of knowledge and power by Silicon Valley behemoths that are all built on foundations of Linux servers and open source software. It follows the evolving nomenclature of F(L)OSS to open source, which has been offered as a business model for (corporate) infrastructure; simultaneously it recounts how software developers worldwide built new infrastructures and technical solutions based on shared resources and open code. Yet was Free Software a dispositif (Foucault), an ideology (Stallman), a strategy, as with open source (Raymond), or an “open knowledge infrastructure” that is not understood enough? To grasp this interplay between these technical infrastructures as artefacts and human organisation, as well as the ethics and politics implicit within their design, speaking directly with those immanent is essential.
 
+Semi-structured interviews with developers, academics, geeks and awardees from NGI (Next Generation Internet) Search projects, which have to be made open source upon completion, put forth the value openness in relation to other core ethics: useability, modifiability and maintenance. A critical discourse analysis interweaves excerpts from the interviews structured by Star and Ruhleder’s dimensions (1996), or Star’s properties (1999), of an emerging infrastructure. The Free Software movement of past decades resurfaces through the makers/practitioners of today, who, as a recursive public (Kelty 2008), elucidate the techno-infrastructural through the medium itself (code). These interventions go beyond the critique of open source as a solution to proprietary software and copyleft ideology to show how they differ more on an ethical, than a technical, level. Drawing on a chapter for the forthcoming book Politics of Open Infrastructures, this presentation demonstrates how F(L)OSS can be deemed an open (knowledge) infrastructure through its reorientation of knowledge and power, whilst revealing some of the values and ethical considerations embedded within developing open source (search) projects.
+
+**Speaker:** Renée Ridgway
+
+## TMI-WEB: An Open Approach to Computational Social Science
+**Abstract:**
+Can open source help us understand each other better? What if we could use open source to explore our intersecting identities and discover connections between our shared struggles and joys?
+
+This presentation introduces TMI-WEB, a computational social science research tool that pairs a custom Ruby and Rails web application with the graph database Neo4j to create detailed models of the multifaceted nature of intersecting social identities (e.g., race, gender, or socioeconomic status). These models come to life as interactive visualizations of interconnected nodes in an explorable universe of identities, helping social scientists uncover connections between individual and social experiences.
+
+We are developing TMI-WEB to address critical ethical and technical challenges at the intersection of social science and computing. The project aims to provide an open alternative to proprietary research tools, advance the field of computational social science, and support research that contributes to a more equitable society. 
+
+Built in the open and designed to support innovative social research methodologies, TMI-WEB enables scalable operationalization of intersectional analysis across large, text-based datasets—a rare capability in qualitative research. From research design to technical design, TMI-WEB was developed to foster openness, accessibility, and collaboration while advancing the goals of broad social good and societal well-being. 
+
+The TMI-WEB source code repository is at https://github.com/identity-research-lab/tmi-web.
+
+**Speaker Names:**  Coraline Ada Ehmke,  Jess Parris
+
+**Bio:**
+Coraline Ada Ehmke is an internationally recognized tech ethicist and software engineer. For more than a decade, she's worked on practical approaches to promoting the values of diversity, equity, and justice in the technology industry, with a particular focus on open source. She is the creator of Contributor Covenant, the first and most popular code of conduct for digital communities, and the Hippocratic License, an innovative software license designed to promote and protect human rights. Coraline co-founded the Organization for Ethical Source (https://ethicalsource.dev) and serves as its Executive Director.
+
+Dr. Jess Parris Westbrook is a tenured Associate Professor of Design at DePaul University's Jarvis College of Computing and Digital Media in Chicago, Illinois, USA, and the Director of the Identity Research Lab. Dr. Westbrook identifies as a postnormal social researcher and critical designer, with a passion for mixing methods, crafting probes and provocations, and connecting data with imagination. Their professional background bridges studio art, applied design, academic research, and education, valuing a commitment to transdisciplinary approaches and innovative collaborations.
+
+## From open code to open contributions: open source in academia
+**Abstract:**
+The world runs on open source and academic research is no different. However, while there have been recent analyses and evaluations of the culture of contributions to open source through industry, the world of academic open source contributions has been less explored, despite increasing mandates for open code and a growing consensus around the importance of funding and support for open source. This talk will present an early look at an upcoming project intending do just this, exploring the what, where, how, why and, critically, the why nots of academic open source contributions. Participants are invited to share their thoughts and help shape the future direction of the study at the end of the presentation.
+
+**Speaker:** Arielle Bennett
 
 </div>
 </section>
