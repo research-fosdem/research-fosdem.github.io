@@ -154,6 +154,9 @@ The Open Research devroom aims to:
 
 For more content information, you can also read about the [state of the conversation](https://reticular.hypotheses.org/1825) in the devroom in 2020-2021.
 
+## Contact
+
+We post updates about the devroom at FOSDEM and our online event on [Mastodon](https://fosstodon.org/@FosdemResearch) and [Bluesky](https://bsky.app/profile/fosdemresearch.bsky.social).
 
 # What is the FOSDEM?
 
