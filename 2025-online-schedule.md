@@ -24,17 +24,20 @@ Interactive Q&A doc:
 <div markdown="1">
 ## Schedule:
 
-| S/No. | TIME (CET) | End  | Title                                                                          | Author                 | Chair |
-|-------|------------|------|--------------------------------------------------------------------------------|------------------------|-------|
-| 1     | 11:30      | x    | Is your Community implementing the Diversity Equity and Inclusion (DEI) equivalent of Python 2.6? | Rowland Mosbergen      | x     |
-| 2     | 12:00      | x    | Will AI coding assistants kill FLOSS in research software engineering?         | Giuditta Parolini      | x     |
-| 3     | 12:30      | x    | A Universe to be Decided                                                       | Mike Smith             | x     |
-| 4     | 13:00      | x    | Creating an Open Knowledge Graph for Climate                                   | Shweata Hegde          | x     |
-| 5     | 13:30      | x    | Cartography of the Missing: Mapping Forced Disappearances in Jalisco           | Angel Abundis          | x     |
-| 6     | 14:00      | x    | Yanayi Project                                                                 | Claire Depardieu       | x     |
-| 7     | 14:30      | x    | Research on (re)search: FLOSS as an open knowledge infrastructure              | Renée Ridgway          | x     |
-| 8     | 15:00      | x    | TMI-WEB: An Open Approach to Computational Social Science                      | Coraline Ada Ehmke     | x     |
-| 9     | 15:30      | x    | From open code to open contributions: open source in academia                  | Arielle Bennett        | x     |
+| S/No. | TIME (CET)  | Title                                                                          | Author                 | Chair |
+|-------|-------------|--------------------------------------------------------------------------------|------------------------|-------|
+| 1     | 11:30-12:00 | Is your Community implementing the Diversity Equity and Inclusion (DEI) equivalent of Python 2.6? | Rowland Mosbergen      | Sara Petti |
+| 2     | 12:00-12:30 | Will AI coding assistants kill FLOSS in research software engineering?         | Giuditta Parolini      | Sara Petti    |
+| 3     | 12:30-13:00 | A Universe to be Decided                                                       | Mike Smith             | Sara Petti    |
+|       | 13:00-13:20 | Discussion/break                                                               |                        | Sara Petti    |
+| 4     | 13:20-13:50 | Creating an Open Knowledge Graph for Climate                                   | Shweata Hegde          | Mathieu Jacomy |
+| 5     | 13:50-14:20 | Cartography of the Missing: Mapping Forced Disappearances in Jalisco           | Angel Abundis          | Mathieu Jacomy |
+| 6     | 14:20-14:50 | Yanayi Project                                                                 | Claire Depardieu       | Mathieu Jacomy |
+|       | 14:50-15:10 | Discussion/break                                                               |                        | Mathieu Jacomy |
+| 7     | 15:10-15:40 | Research on (re)search: FLOSS as an open knowledge infrastructure              | Renée Ridgway          | Jim Madge |
+| 8     | 15:40-16:10 | TMI-WEB: An Open Approach to Computational Social Science                      | Coraline Ada Ehmke     | Jim Madge |
+| 9     | 16:10-16:40 | From open code to open contributions: open source in academia                  | Arielle Bennett        | Jim Madge |
+|       | 16:40-17:00 | Final discussion                                                               |                        | Jim Madge |
 
 </div>
 </section>
