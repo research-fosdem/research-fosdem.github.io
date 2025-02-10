@@ -11,11 +11,9 @@ Date and time: Saturday the 15th of February <!--at 10:00 UTC - 15:30 UTC. [[Che
 
 The call will be hosted on Zoom, allowing us to provide realtime captions and translation. 
 
-Join Zoom Meeting
-> To be announced
+[Join Zoom Meeting](https://aaudk.zoom.us/j/68380102273)
 
-Interactive Q&A doc:
-> To be announced
+[Interactive Q&A doc](https://annuel.framapad.org/p/ordem-2025-acrs?lang=fr)
 
 </div>
 </section>
