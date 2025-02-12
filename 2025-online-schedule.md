@@ -34,8 +34,7 @@ The call will be hosted on Zoom, allowing us to provide realtime captions and tr
 |       | 14:50-15:10 | Discussion/break                                                               |                        | Mathieu Jacomy |
 | 7     | 15:10-15:40 | Research on (re)search: FLOSS as an open knowledge infrastructure              | Renée Ridgway          | Jim Madge |
 | 8     | 15:40-16:10 | TMI-WEB: An Open Approach to Computational Social Science                      | Coraline Ada Ehmke     | Jim Madge |
-| 9     | 16:10-16:40 | From open code to open contributions: open source in academia                  | Arielle Bennett        | Jim Madge |
-|       | 16:40-17:00 | Final discussion                                                               |                        | Jim Madge |
+|       | 16:10-16:40  | Final discussion                                                               |                        | Jim Madge |
 
 </div>
 </section>
@@ -150,12 +149,6 @@ The TMI-WEB source code repository is at https://github.com/identity-research-la
 Coraline Ada Ehmke is an internationally recognized tech ethicist and software engineer. For more than a decade, she's worked on practical approaches to promoting the values of diversity, equity, and justice in the technology industry, with a particular focus on open source. She is the creator of Contributor Covenant, the first and most popular code of conduct for digital communities, and the Hippocratic License, an innovative software license designed to promote and protect human rights. Coraline co-founded the Organization for Ethical Source (https://ethicalsource.dev) and serves as its Executive Director.
 
 Dr. Jess Parris Westbrook is a tenured Associate Professor of Design at DePaul University's Jarvis College of Computing and Digital Media in Chicago, Illinois, USA, and the Director of the Identity Research Lab. Dr. Westbrook identifies as a postnormal social researcher and critical designer, with a passion for mixing methods, crafting probes and provocations, and connecting data with imagination. Their professional background bridges studio art, applied design, academic research, and education, valuing a commitment to transdisciplinary approaches and innovative collaborations.
-
-## From open code to open contributions: open source in academia
-**Abstract:**
-The world runs on open source and academic research is no different. However, while there have been recent analyses and evaluations of the culture of contributions to open source through industry, the world of academic open source contributions has been less explored, despite increasing mandates for open code and a growing consensus around the importance of funding and support for open source. This talk will present an early look at an upcoming project intending do just this, exploring the what, where, how, why and, critically, the why nots of academic open source contributions. Participants are invited to share their thoughts and help shape the future direction of the study at the end of the presentation.
-
-**Speaker:** Arielle Bennett
 
 </div>
 </section>
