@@ -9,11 +9,7 @@ title: 2025 ORDEM Schedule
 
 Date and time: Saturday the 15th of February <!--at 10:00 UTC - 15:30 UTC. [[Check when this is in YOUR timezone](https://arewemeetingyet.com/London/2024-02-10/10:00)]-->
 
-The call will be hosted on Zoom, allowing us to provide realtime captions and translation. 
-
-[Join Zoom Meeting](https://aaudk.zoom.us/j/68380102273)
-
-[Interactive Q&A doc](https://annuel.framapad.org/p/ordem-2025-acrs?lang=fr)
+The call will be hosted on Zoom, allowing us to provide real-time captions and translation.
 
 </div>
 </section>
