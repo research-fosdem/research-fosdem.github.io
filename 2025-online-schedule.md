@@ -9,11 +9,7 @@ title: 2025 ORDEM Schedule
 
 Date and time: Saturday the 15th of February <!--at 10:00 UTC - 15:30 UTC. [[Check when this is in YOUR timezone](https://arewemeetingyet.com/London/2024-02-10/10:00)]-->
 
-The call will be hosted on Zoom, allowing us to provide realtime captions and translation. 
-
-[Join Zoom Meeting](https://aaudk.zoom.us/j/68380102273)
-
-[Interactive Q&A doc](https://annuel.framapad.org/p/ordem-2025-acrs?lang=fr)
+The call will be hosted on Zoom, allowing us to provide real-time captions and translation.
 
 </div>
 </section>
@@ -22,19 +18,19 @@ The call will be hosted on Zoom, allowing us to provide realtime captions and tr
 <div markdown="1">
 ## Schedule:
 
-| S/No. | TIME (CET)  | Title                                                                          | Author                 | Chair |
-|-------|-------------|--------------------------------------------------------------------------------|------------------------|-------|
-| 1     | 11:30-12:00 | Is your Community implementing the Diversity Equity and Inclusion (DEI) equivalent of Python 2.6? | Rowland Mosbergen      | Sara Petti |
-| 2     | 12:00-12:30 | Will AI coding assistants kill FLOSS in research software engineering?         | Giuditta Parolini      | Sara Petti    |
-| 3     | 12:30-13:00 | A Universe to be Decided                                                       | Mike Smith             | Sara Petti    |
-|       | 13:00-13:20 | Discussion/break                                                               |                        | Sara Petti    |
-| 4     | 13:20-13:50 | Creating an Open Knowledge Graph for Climate                                   | Shweata Hegde          | Mathieu Jacomy |
-| 5     | 13:50-14:20 | Cartography of the Missing: Mapping Forced Disappearances in Jalisco           | Angel Abundis          | Mathieu Jacomy |
-| 6     | 14:20-14:50 | Yanayi Project                                                                 | Claire Depardieu       | Mathieu Jacomy |
-|       | 14:50-15:10 | Discussion/break                                                               |                        | Mathieu Jacomy |
-| 7     | 15:10-15:40 | Research on (re)search: FLOSS as an open knowledge infrastructure              | Renée Ridgway          | Jim Madge |
-| 8     | 15:40-16:10 | TMI-WEB: An Open Approach to Computational Social Science                      | Coraline Ada Ehmke     | Jim Madge |
-|       | 16:10-16:40  | Final discussion                                                               |                        | Jim Madge |
+| S/No.   | TIME (CET)    | Title                                                                                                                                    | Author                   | Chair          |
+| ------- | ------------- | --------------------------------------------------------------------------------                                                         | ------------------------ | -------        |
+| 1       | 11:30-12:00   | [Is your Community implementing the Diversity Equity and Inclusion (DEI) equivalent of Python 2.6?](https://zenodo.org/records/15012857) | Rowland Mosbergen        | Sara Petti     |
+| 2       | 12:00-12:30   | [Will AI coding assistants kill FLOSS in research software engineering?](https://zenodo.org/records/15012893)                            | Giuditta Parolini        | Sara Petti     |
+| 3       | 12:30-13:00   | A Universe to be Decided                                                                                                                 | Mike Smith               | Sara Petti     |
+|         | 13:00-13:20   | [Discussion/break](https://zenodo.org/records/15012919)                                                                                  |                          | Sara Petti     |
+| 4       | 13:20-13:50   | [Creating an Open Knowledge Graph for Climate](https://zenodo.org/records/15012982)                                                      | Shweata Hegde            | Mathieu Jacomy |
+| 5       | 13:50-14:20   | [Cartography of the Missing: Mapping Forced Disappearances in Jalisco](https://zenodo.org/records/15013120)                              | Angel Abundis            | Mathieu Jacomy |
+| 6       | 14:20-14:50   | [Yanayi Project](https://zenodo.org/records/15013140)                                                                                    | Claire Depardieu         | Mathieu Jacomy |
+|         | 14:50-15:10   | [Discussion/break](https://zenodo.org/records/15013167)                                                                                  |                          | Mathieu Jacomy |
+| 7       | 15:10-15:40   | [Research on (re)search: FLOSS as an open knowledge infrastructure](https://zenodo.org/records/15013227)                                 | Renée Ridgway            | Jim Madge      |
+| 8       | 15:40-16:10   | [TMI-WEB: An Open Approach to Computational Social Science](https://zenodo.org/records/15013266)                                         | Coraline Ada Ehmke       | Jim Madge      |
+|         | 16:10-16:40   | [Final discussion](https://zenodo.org/records/15013328)                                                                                  |                          | Jim Madge      |
 
 </div>
 </section>
