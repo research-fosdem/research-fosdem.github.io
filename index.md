@@ -119,7 +119,7 @@ Once logged in, select “submit a proposal” and select the "Open Research" tr
 
 <span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [https://pretalx.fosdem.org/fosdem-2026/cfp](https://pretalx.fosdem.org/fosdem-2026/cfp)**</span>
 
-If you have any issues with Pretalx, do not despair: contact us at [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org).
+If you have any issues with Pretalx, do not despair: contact us at [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org).
 
 Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
 
@@ -128,7 +128,7 @@ Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/we
 
 Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
 
-<span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org)**</span>
+<span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)**</span>
 
 </div>
   </div>
@@ -190,7 +190,7 @@ Your proposal will be assessed by our committee:
 - Yo Yehudi
 
 
-Contact us: [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org)
+Contact us: [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)
 
 </div>
   </div>
