@@ -21,11 +21,11 @@ We call it ORDEM: Open Research, Dev, Ethics & Mobilization.
     <h2 class="title">Call for Participation</h2>
 <div markdown="1">
 
-**👉 Deadline 1st December 2024**
+**👉 Deadline 1st December 2025**
 
 ### Call for presentations
 
-We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2025 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
+We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2026 edition of [FOSDEM](https://fosdem.org), the largest open-source conference in Europe.
 We understand research as the general process of knowledge production and inquiry. This includes **scientific research, investigative journalism, data journalism, OSINT, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
 
 We seek talks about:
@@ -77,10 +77,10 @@ The FOSDEM will be entirely **physical** this year (in Bruxelles), and our onlin
 
 #### 1. Important dates:
 
-- **Proposal Deadline: <span style="color: #900;">1 Dec</span> 2024 AOE**
-- **Accepted talk announced: 2024-12-15**
-- **FOSDEM Conference:  Saturday 1st Feb 2025** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
-- **Unofficial online session: Saturday 15th Feb 2025**
+- **Proposal Deadline: <span style="color: #900;">1 Dec</span> 2025 AOE**
+- **Accepted talk announced: 2025-12-15**
+- **FOSDEM Conference:  Sunday February 1st 2026** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
+- **Unofficial online session: Saturday 14th Feb 2026**
 - Submit early if you can!
 
 #### 2. Submissions
@@ -103,6 +103,7 @@ Please make sure to add links to relevant online materials (such as website, pub
 
 To get inspired on possible abstracts style, length and format, you can read previous edition talks on FOSDEM archives:
 
+- [Open Research @ FOSDEM 2025](https://archive.fosdem.org/2025/schedule/track/research/)
 - [Open Research @ FOSDEM 2024](https://archive.fosdem.org/2024/schedule/track/open-research/)
 - [Open Research @ FOSDEM 2023](https://archive.fosdem.org/2023/schedule/track/open_research_tools_and_technology/)
 - [Open Research @ FOSDEM 2022](https://archive.fosdem.org/2022/schedule/track/open_research_tools_and_technologies/)
@@ -113,17 +114,17 @@ To get inspired on possible abstracts style, length and format, you can read pre
 #### 3. How to submit for the PHYSICAL talks (Pretalx tips)
 
 For the official, physical session, the submission process is managed in the Pretalx system used by the FOSDEM conference.
-You must create an account in the system to submit (Pretalx replaces the previous pentabarf system you need to create a new user account).
-Once logged in, select “submit a CFP” and select the "Open research" track.
+You must create an account in the system to submit.
+Once logged in, select “submit a proposal” and select the "Open Research" track.
 
-<span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [https://pretalx.fosdem.org/fosdem-2025/cfp](https://pretalx.fosdem.org/fosdem-2025/cfp)**</span>
+<span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [https://pretalx.fosdem.org/fosdem-2026/cfp](https://pretalx.fosdem.org/fosdem-2026/cfp)**</span>
 
 If you have any issues with Pretalx, do not despair: contact us at [research-devroom-manager@fosdem.org](mailto:research-devroom-manager@fosdem.org).
 
 Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
 
 
-#### 4. How to submit for the ONLINE session (15 February)
+#### 4. How to submit for the ONLINE session (14th of February)
 
 Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
 
@@ -177,11 +178,11 @@ Your proposal will be assessed by our committee:
 
 - [Anne Lee Steele](https://aleesteele.com)
 - Célya Gruson-Daniel [Inno3](https://inno3.fr/) and [COSTECH Lab](https://costech.utc.fr/Le-COSTECH) (Université de Technologie de Compiègne)
-- Diego Antolinos-Basso, research engineer at the [médialab](https://medialab.sciencespo.fr/) and the [CEVIPOF](https://www.sciencespo.fr/cevipof/), Sciences Po Paris
+- Deborah Udoh
+- Diego Antolinos-Basso, research software engineer at the [Académie du journalisme et des médias, University of Neuchâtel, CH](https://www.unine.ch/ajm).
+- Émilien Schultz
 - [Jim Madge](https://blog.jmadge.com)
-- Luisa Orozco, Research Software Engineer at the [Netherlands eScience center](https://www.esciencecenter.nl/).
 - Mathieu Jacomy, assistant professor at the [Tantlab](https://www.en.culture.aau.dk/research/research-groups/tantlab) in Copenhagen and designer of [Gephi](https://gephi.org/).
-- Maya Anderson-González
 - Paul Girard, Human Data Interfaces engineer at [OuestWare](https://ouestware.com)
 - Sara Petti, Network Lead at [Open Knowledge Foundation](https://okfn.org/)
 - Victor Daussy-Renaudin
@@ -199,7 +200,7 @@ Contact us: [research-devroom-manager@fosdem.org](mailto:research-devroom-manage
   <div class="container">
     <h2 class="title">Schedule</h2>
 <div markdown="1">
-Want to view the **schedule for the online talks**? Use this [link](/2024-online-schedule.html)!
+Want to view the **schedule for the online talks**? Use this [link](/2025-online-schedule.html)!
 </div>
 </div>
 </section>
