@@ -170,14 +170,14 @@ Contact us: [open-research-devroom-manager@fosdem.org](mailto:open-research-devr
   </div>
 </section>
 
-<section id="schedule" class="section" markdown="1">
+<!--<section id="schedule" class="section" markdown="1">
   <div class="container">
     <h2 class="title">Schedule</h2>
 <div markdown="1">
     Under construction
 </div>
 </div>
-</section>
+</section>-->
 
 <section id="code-of-conduct">
   <h2>Code of Conduct</h2>
