@@ -3,19 +3,8 @@ layout: default
 title: Open Research Devroom
 ---
 
-<!-- ORDEM (2024) -->
-<!-- # 👉 Join us [online Saturday 10 Feb](https://research-fosdem.github.io/2024-online-schedule)!
+<!-- DEVROOM: CALL (2026) -->
 
-**Check our [10 amazing new ONLINE talks](https://research-fosdem.github.io/2024-online-schedule) on Saturday 10 February.**
-
-We call it ORDEM: Open Research, Dev, Ethics & Mobilization.
-
-🌎 It allows us to reach people all over the world who cannot necessarily come to Bruxelles.
- -->
-
-
-
-<!-- DEVROOM: CALL (2024) -->
 <section id="call-for-presentations" class="section" markdown="1">
   <div class="container">
     <h2 class="title">Call for Participation</h2>
@@ -38,31 +27,24 @@ We seek talks about:
 
 We welcome talks from various research and investigative contexts: research labs, libraries, newsrooms, museums, hackerspaces, maker labs, community and activist groups. We welcome your experience on various topics: open science, open data, commons, research on research, sustainability... Any subjects related to open source technologies in research contexts are welcome even if not in this list.
 
-<!-- You will find a summary of what happened in our devroom the first two years in this blog post: [reticular.hypotheses.org/1825](https://reticular.hypotheses.org/1825) -->
 </div>
-  </div>
+</div>
 </section>
 
 <section id="talks-format" class="section" markdown="1">
   <div class="container">
     <h2 class="title">Event and talks format</h2>
 <div markdown="1">
-Our official devroom consists of 6 hours of talks held physically in Bruxelles. In addition, we will hold an _unofficial_ session consisting of about 4h of online talks.
+The Open Research devroom consists of 6 hours of talks held physically in Bruxelles on Sunday 1st of February 2026
 
-_Note: The online session will not be appearing on the FOSDEM website; that's why it's unofficial._
-
-
-#### 1. Talks
+#### 1. Time slots
 
 - *Lecture* talks will last **20 minutes** followed by **10 minutes** for questions (and changing speaker)
 - *Lightning* talks will last **10 minutes** followed by **5 minutes** for questions (and changing speaker)
 
-Talks have to be _in English_ and will be recorded and later on published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/). The unofficial, online talks will also be recorded and published, but somewhere else (more on this soon).
+#### 2. Language and publication
 
-
-#### 2. Event format
-
-The FOSDEM will be entirely **physical** this year (in Bruxelles), and our online session will be held unofficially a few weeks later. All the talks can be seen online via a stream.
+Talks have to be _in English_ and will be recorded. All FOSDEM talks are published under Creative Commons CC-BY licence on the [FOSDEM video recordings archive](https://video.fosdem.org/).
 
 </div>
   </div>
@@ -80,7 +62,6 @@ The FOSDEM will be entirely **physical** this year (in Bruxelles), and our onlin
 - **Proposal Deadline: <span style="color: #900;">1 Dec</span> 2025 AOE**
 - **Accepted talk announced: 2025-12-15**
 - **FOSDEM Conference:  Sunday February 1st 2026** morning + afternoon at Université libre de Bruxelles, Solbosch campus.
-- **Unofficial online session: Saturday 14th Feb 2026**
 - Submit early if you can!
 
 #### 2. Submissions
@@ -93,15 +74,15 @@ Must include:
 - Speaker name, contact, biography and availability
 
 Can include:
-- Submission notes: write if you want to give a Lightning talk or Lecture here. Add any other details as needed (visible only to devrooms managers)
+- Submission notes: write if you want to give a **Lightning talk or Lecture** here. Add any other details as needed (visible only to devrooms managers)
 - Session Image:  Use this if you want an illustration to go with your proposal. Please do not upload files larger than 10.0 MB.
-- Additional speaker: you can add co-author
+- Additional speaker: you can add co-authors here.
 - Extra review material: private materials you want to show to reviewers
 
 Please make sure to add links to relevant online materials (such as website, publications, code repository...) to either abstract or extra review material.
    
 
-To get inspired on possible abstracts style, length and format, you can read previous edition talks on FOSDEM archives:
+To get inspired on possible abstract styles, length and format, you can read previous edition talks on FOSDEM archives:
 
 - [Open Research @ FOSDEM 2025](https://archive.fosdem.org/2025/schedule/track/research/)
 - [Open Research @ FOSDEM 2024](https://archive.fosdem.org/2024/schedule/track/open-research/)
@@ -111,24 +92,17 @@ To get inspired on possible abstracts style, length and format, you can read pre
 - [Open Research @ FOSDEM 2020](https://archive.fosdem.org/2020/schedule/track/open_research_tools_and_technologies/)
 
 
-#### 3. How to submit for the PHYSICAL talks (Pretalx tips)
+#### 3. Submitting your talk through Pretalx
 
-For the official, physical session, the submission process is managed in the Pretalx system used by the FOSDEM conference.
+The submission process is managed in the Pretalx system used by the FOSDEM conference.
 You must create an account in the system to submit.
 Once logged in, select “submit a proposal” and select the "Open Research" track.
 
-<span style="background-color: #7dff9d;">**Apply for a _physical_ talk: [https://pretalx.fosdem.org/fosdem-2026/cfp](https://pretalx.fosdem.org/fosdem-2026/cfp)**</span>
+<span style="background-color: #7dff9d;">**Apply here: [https://pretalx.fosdem.org/fosdem-2026/cfp](https://pretalx.fosdem.org/fosdem-2026/cfp)**</span>
 
 If you have any issues with Pretalx, do not despair: contact us at [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org).
 
 Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/web/@FosdemResearch) for updates and announcements.
-
-
-#### 4. How to submit for the ONLINE session (14th of February)
-
-Send an email to us with your submission. Just write in the email the necessary information (see point 2. above).
-
-<span style="background-color: #7dff9d;">**Apply for an _online_ talk:  [open-research-devroom-manager@fosdem.org](mailto:open-research-devroom-manager@fosdem.org)**</span>
 
 </div>
   </div>
@@ -153,7 +127,7 @@ The Open Research devroom aims to:
 - Create a network where otherwise isolated developers, research engineers can share common FLOSS concerns.
 - Provide social recognition for people who work in fields where designing and developing tools is less considered than usual outcomes (e.g. not publishing papers in research, not writing investigation in data journalism, etc).
 
-For more content information, you can also read about the [state of the conversation](https://reticular.hypotheses.org/1825) in the devroom in 2020-2021.
+For more contextual information, you can also read about the [state of the conversation](https://reticular.hypotheses.org/1825) in the devroom in 2020-2021.
 
 ## Contact
 
@@ -170,7 +144,7 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
 
 <section id="talks-format" class="section" markdown="1">
   <div class="container">
-    <h2 class="title">The ORDEM Committee</h2>
+    <h2 class="title">The Open Research Committee</h2>
 <div markdown="1">
 
 # Committee
@@ -184,7 +158,7 @@ Your proposal will be assessed by our committee:
 - [Jim Madge](https://blog.jmadge.com)
 - Mathieu Jacomy, assistant professor at the [Tantlab](https://www.en.culture.aau.dk/research/research-groups/tantlab) in Copenhagen and designer of [Gephi](https://gephi.org/).
 - Paul Girard, Human Data Interfaces engineer at [OuestWare](https://ouestware.com)
-- Sara Petti, Network Lead at [Open Knowledge Foundation](https://okfn.org/)
+- Sara Petti
 - Victor Daussy-Renaudin
 - [Violeta Menéndez González](https://violetamenendez.github.io/), Senior Research Software Engineer at [CoSTAR National Lab](https://www.ukri.org/councils/ahrc/remit-programmes-and-priorities/convergent-screen-technologies-and-performance-in-realtime-costar/costar-national-lab/).
 - Yo Yehudi
@@ -200,7 +174,7 @@ Contact us: [open-research-devroom-manager@fosdem.org](mailto:open-research-devr
   <div class="container">
     <h2 class="title">Schedule</h2>
 <div markdown="1">
-Want to view the **schedule for the online talks**? Use this [link](/2025-online-schedule.html)!
+    Under construction
 </div>
 </div>
 </section>
