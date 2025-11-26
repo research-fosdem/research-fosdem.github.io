@@ -155,7 +155,7 @@ Your proposal will be assessed by our committee:
 - Deborah Udoh
 - Diego Antolinos-Basso, research software engineer at the [Académie du journalisme et des médias, University of Neuchâtel, CH](https://www.unine.ch/ajm).
 - Émilien Schultz
-- [Jim Madge](https://blog.jmadge.com)
+- [Jim Madge](https://blog.jmadge.com), Senior Research Software Engineer at [The Alan Turing Institute](https://turing.ac.uk), contributor to [_The Turing Way_](https://book.the-turing-way.org), [All Contributors](https://allcontributors.org), and [Jupyter Book](https://jupyterbook.org)
 - Mathieu Jacomy, assistant professor at the [Tantlab](https://www.en.culture.aau.dk/research/research-groups/tantlab) in Copenhagen and designer of [Gephi](https://gephi.org/).
 - Paul Girard, Human Data Interfaces engineer at [OuestWare](https://ouestware.com)
 - Sara Petti
