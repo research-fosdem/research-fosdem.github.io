@@ -7,12 +7,8 @@ title: Open Research Devroom
 
 <section id="call-for-presentations" class="section" markdown="1">
   <div class="container">
-    <h2 class="title">Call for Participation</h2>
+    <h2 class="title">Call for Participation 👉 Deadline 16 November 2026</h2>
 <div markdown="1">
-
-**👉 Deadline 16 November 2026**
-
-### Call for presentations
 
 We invite **developers and users of open tools and technologies** used in a research and investigation context to contribute to the 2027 edition of [FOSDEM](https://fosdem.org): **scientific research, investigative journalism, data journalism, OSINT, as well as research and investigations undertaken by NGOs, civil society, community and activist groups**, etc.
 
