@@ -49,10 +49,8 @@ The FOSDEM will be held physically in Bruxelles. The presenters have to be prese
 
 <section id="submission" class="section" markdown="1">
   <div class="container">
-    <h2 class="title">Submission</h2>
+    <h2 class="title">HOW TO SUBMIT</h2>
 <div markdown="1">
-
-# HOW TO SUBMIT
 
 #### 1. Important dates:
 
@@ -116,24 +114,22 @@ Follow us [on Mastodon (@FosdemResearch@fosstodon.org)](https://fosstodon.org/we
     <h2 class="title">About the Devroom</h2>
 <div markdown="1">
 
-# About the Open Research devroom
-
 The Open Research devroom addresses [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html) developers in a broad community concerned with research production and curation: scientists, engineers, journalists, archivists, curators, activists. 
 The tools and technologies targeted are typically creating, handling or sharing knowledge artifacts: data, academic papers, books, collections, web contents, algorithms, artworks.
 This devroom provides a place and time to discuss the issues related to the creation and usage of open research technologies, with the ambition to foster discussions between designers, developers and users, bridging multiple knowledge-based communities together, and with the broader FLOSS community.
 
-**The Open Research devroom aims to:**
+#### The Open Research devroom aims to:
 
 - Allow knowledge-based tool developers to publicize their effort and become aware of other FLOSS projects.
 - Facilitate the pooling of coding efforts on (often poorly funded) tools.
 - Create a network where otherwise isolated developers, research engineers can share common FLOSS concerns.
 - Provide social recognition for people who work in fields where designing and developing tools is less considered than usual outcomes (e.g. not publishing papers in research, not writing investigation in data journalism, etc).
 
-## Contact
+#### Contact
 
 We post updates about the devroom at FOSDEM and our online event on [Mastodon](https://fosstodon.org/@FosdemResearch) and [Bluesky](https://bsky.app/profile/fosdemresearch.bsky.social).
 
-# What is the FOSDEM?
+#### What is the FOSDEM?
 
 The FOSDEM (Free and Open source Software Developers' European Meeting) is a non-commercial, volunteer-organized European event centered on free and open-source software development. It is aimed at developers and anyone interested in the free and open-source software movement. It aims to enable developers to meet and to promote the awareness and use of free and open-source software.  
 [https://fosdem.org/](https://fosdem.org/)  
@@ -146,8 +142,6 @@ The FOSDEM (Free and Open source Software Developers' European Meeting) is a non
   <div class="container">
     <h2 class="title">The Open Research Committee</h2>
 <div markdown="1">
-
-# Committee
 
 Your proposal will be assessed by our committee:
 
