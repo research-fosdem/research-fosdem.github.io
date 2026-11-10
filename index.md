@@ -66,7 +66,6 @@ Must include:
 
 - Title
 - Abstract
-- Description
 - Talk license: FOSDEM is an open-source software conference, please specify which OSI approved license your proposal uses.
 - Speaker name, contact, biography and availability
 
